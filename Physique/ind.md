@@ -5,7 +5,7 @@ Plans
 - [Plans MP Hugo Roussille](plans_montage_physique_HR.pdf) 
 - [Plans MP Jules Fillette](Montages-JF.pdf) 
 - [Plans MP Julien Froustey](Plans_JFr.pdf)
-- [Notes](Notes de chimie.docx)
+- [Notes](notes.docx)
 
 
 <h2> Ressources </h2>
