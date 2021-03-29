@@ -1,4 +1,4 @@
-<h1> Plans </h1>
+<h1> Chimie </h1>
 
 <h2> Slides </h2>
 
