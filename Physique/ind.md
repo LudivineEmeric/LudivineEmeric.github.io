@@ -1,18 +1,20 @@
 <h1> Physique </h1>
 
-Plans
+<h2> Plans </h2>
 
-- [Plans MP Hugo Roussille](plans_montage_physique_HR.pdf) 
-- [Plans MP Jules Fillette](Montages-JF.pdf) 
-- [Plans MP Julien Froustey](Plans_JFr.pdf)
+<h2> Slides </h2>
+
+<h2> Fiches </h2>
+
 - [Notes](notes.docx)
 
+<h2> Pictures </h2>
 
 <h2> Ressources </h2>
 
-<h3> Sites internets </h3>
+<h2> Sites internets </h2>
 
-[Site du BUP](http://bupdoc.udppc.asso.fr/index.php)
+- [Site du BUP](http://bupdoc.udppc.asso.fr/index.php)
 
 <details>
   <summary>
