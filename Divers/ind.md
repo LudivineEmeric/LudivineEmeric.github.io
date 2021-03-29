@@ -1,6 +1,6 @@
 <h1> Divers </h1>
 
-- [Plans Montages Hugo Roussille](HR_montages.pdf) 
+- [Plans Montages Hugo Roussille](HRmontages.pdf) 
 - [Plans Jules Fillette](JF.pdf) 
 - [Plans Julien Froustey](JFr.pdf)
 
