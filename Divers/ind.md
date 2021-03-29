@@ -16,3 +16,5 @@
 - [Site Montrouge](http://ressources.agreg.phys.ens.fr/ressources/)
 - [Site Hugo Roussille](https://arah.fr/hroussille/enseignement.html)
 - [Site Jules Fillette](https://www.eleves.ens.fr/home/fillette/agregation.html)
+- [Git Jérémy Neveu](https://gitlab.in2p3.fr/jeremy.neveu)
+
