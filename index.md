@@ -1,4 +1,4 @@
-# Agrégation
+# Agregation
 
 [Physique](Physique/ind.md)
 
