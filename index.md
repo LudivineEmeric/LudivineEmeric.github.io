@@ -1,6 +1,4 @@
-# Yo
-Ressources
-
+# Agrégation
 
 [Physique](Physique/ind.md)
 
