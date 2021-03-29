@@ -6,4 +6,4 @@
 
 [Montages](Montages/ind.md)
 
-[Montages](Montages/ind.md)
+[Divers](Divers/ind.md)
