@@ -18,7 +18,7 @@
 - [Site Jules Fillette](https://www.eleves.ens.fr/home/fillette/agregation.html)
 - [Git Jeremy Neveu](https://gitlab.in2p3.fr/jeremy.neveu)
 - [IOGS](http://paristech.institutoptique.fr/)
-- [Cours electromagnetisme François Marquier](http://paristech.institutoptique.fr/site.php?id=19&fileid=13533)
+- [Cours electromagnetisme Francois Marquier](http://paristech.institutoptique.fr/site.php?id=19&fileid=13533)
 - [Cours physique statistique JJG](http://paristech.institutoptique.fr/site.php?id=274&fileid=22021)
 
 
