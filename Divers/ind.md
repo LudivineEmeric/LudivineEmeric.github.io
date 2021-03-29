@@ -16,8 +16,9 @@
 - [Site Montrouge](http://ressources.agreg.phys.ens.fr/ressources/)
 - [Site Hugo Roussille](https://arah.fr/hroussille/enseignement.html)
 - [Site Jules Fillette](https://www.eleves.ens.fr/home/fillette/agregation.html)
+- [Git Jeremy Neveu](https://gitlab.in2p3.fr/jeremy.neveu)
 - [IOGS](http://paristech.institutoptique.fr/)
-- [Cours électromagnétisme François Marquier](http://paristech.institutoptique.fr/site.php?id=19&fileid=13533)
+- [Cours electromagnetisme François Marquier](http://paristech.institutoptique.fr/site.php?id=19&fileid=13533)
 - [Cours physique statistique JJG](http://paristech.institutoptique.fr/site.php?id=274&fileid=22021)
 
 
