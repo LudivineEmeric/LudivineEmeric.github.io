@@ -8,7 +8,7 @@
 
 <h2> Ressources </h2>
 
-[BUP](BUP/ind.md)
+- [BUP](BUP.zip)
 
 <h2> Sites internets </h2>
 
