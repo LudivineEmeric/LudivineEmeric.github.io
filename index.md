@@ -6,4 +6,4 @@ Ressources
 
 [Chimie](Chimie/ind.md)
 
-[Leçons](Leçons/ind.md)
+[Montages](Montages/ind.md)
