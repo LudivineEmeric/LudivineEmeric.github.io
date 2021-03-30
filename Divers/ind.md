@@ -13,15 +13,23 @@
 
 <h2> Sites internets </h2>
 
-- [Site du BUP](http://bupdoc.udppc.asso.fr/index.php)
+- [BUP](http://bupdoc.udppc.asso.fr/index.php)
 - [Dropbox Montrouge](https://www.dropbox.com/sh/r5ludizflagvo9x/AACGze6owqN-NcmmYoFLIzb8a?dl=0)
 - [Git Montrouge](https://montrouge-physique.github.io/)
-- [Site Montrouge](http://ressources.agreg.phys.ens.fr/ressources/)
-- [Site Hugo Roussille](https://arah.fr/hroussille/enseignement.html)
-- [Site Jules Fillette](https://www.eleves.ens.fr/home/fillette/agregation.html)
+- [Montrouge](http://ressources.agreg.phys.ens.fr/ressources/)
+- [Hugo Roussille](https://arah.fr/hroussille/enseignement.html)
+- [Jules Fillette](https://www.eleves.ens.fr/home/fillette/agregation.html)
 - [Git Jeremy Neveu](https://gitlab.in2p3.fr/jeremy.neveu)
 - [IOGS](http://paristech.institutoptique.fr/)
 - [Cours electromagnetisme Francois Marquier](http://paristech.institutoptique.fr/site.php?id=19&fileid=13533)
 - [Cours physique statistique JJG](http://paristech.institutoptique.fr/site.php?id=274&fileid=22021)
+- [Super site de prof de prépa](https://sites.google.com/site/denismerigoux/)
+- [Ma thèse](https://tel.archives-ouvertes.fr/tel-02452302)
 
 
+<h3> Chimie </h3> 
+- Classification périodique des éléments : [PTable](https://ptable.com/) ou [Webelements](https://www.webelements.com/)
+- [Géométrie molécules VSEPR](https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes_fr.html)
+- [Animations sympas](http://www.ostralo.net/3_animations/animations_chim.htm)
+- [Source ENS chimie](http://culturesciences.chimie.ens.fr/)
+- []()
