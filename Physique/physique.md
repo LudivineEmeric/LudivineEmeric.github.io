@@ -12,12 +12,14 @@
 
 <h2> Ressources </h2>
 
+- [Cours electromagnetisme Francois Marquier](http://paristech.institutoptique.fr/site.php?id=19&fileid=13533)
+- [Cours physique statistique JJG](http://paristech.institutoptique.fr/site.php?id=274&fileid=22021)
+
 <h2> Sites internets </h2>
 
 - [Git Jeremy Neveu](https://gitlab.in2p3.fr/jeremy.neveu)
 - [IOGS](http://paristech.institutoptique.fr/)
-- [Cours electromagnetisme Francois Marquier](http://paristech.institutoptique.fr/site.php?id=19&fileid=13533)
-- [Cours physique statistique JJG](http://paristech.institutoptique.fr/site.php?id=274&fileid=22021)
+
 - []()
 - []()
 - []()
