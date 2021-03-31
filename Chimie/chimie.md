@@ -15,7 +15,7 @@
 
 <h2> Ressources </h2>
 
-- [Application animations VSEPR/molecules reelles](molecule-shapes_fr.html) (sources=[site](https://phet.colorado.edu/fr/simulation/molecule-shapes))
+- [Application animations VSEPR/molecules reelles](molecule-shapes_fr.html) (source=[site](https://phet.colorado.edu/fr/simulation/molecule-shapes))
 - [Cours atome Hydrogene](https://www.lct.jussieu.fr/pagesperso/chaquin/2.Atome_Hydrogene.pdf)
 
 
@@ -25,7 +25,6 @@
 - [Géométrie molécules VSEPR](https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes_fr.html)
 - [Animations sympas](http://www.ostralo.net/3_animations/animations_chim.htm)
 - [Application animations](www.ostralo.net/3_animations/swf/molecule3D.swf) (pas sur que ca marche)
-
 - [Culture chimie](http://culturesciences.chimie.ens.fr/)
 - [pH scale](https://www.compoundchem.com/2015/07/09/ph-scale/)
 - [Bases des manips](http://chimactiv.agroparistech.fr/fr/bases)

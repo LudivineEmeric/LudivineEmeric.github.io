@@ -2,9 +2,9 @@
 
 <h2> Plans </h2>
 
-- [Plans Montages Hugo Roussille](HR_montages.pdf) 
 - [Plans Jules Fillette](JF.pdf) 
 - [Plans Julien Froustey](JFr.pdf)
+- Plans Hugo Roussille : [Montages](HR_montages.pdf), [LP](HR_physique.pdf), [LC](HR_chimie.pdf) 
 
 <h2> Ressources </h2>
 
