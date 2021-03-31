@@ -15,24 +15,26 @@
 
 <h2> Ressources </h2>
 
+<h3> Applications </h3>
 - [Application animations VSEPR/molecules reelles](molecule-shapes_fr.html) (source=[site](https://phet.colorado.edu/fr/simulation/molecule-shapes))
-- [Cours atome Hydrogene](https://www.lct.jussieu.fr/pagesperso/chaquin/2.Atome_Hydrogene.pdf)
-
-
-<h2> Sites internets </h2>
-
-- Classification périodique des éléments : [PTable](https://ptable.com/) ou [Webelements](https://www.webelements.com/)
-- [Géométrie molécules VSEPR](https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes_fr.html)
+- [Geometrie molécules VSEPR](https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes_fr.html)
+- [Orbimol (orbitales moleculaires)](https://www.lct.jussieu.fr/pagesperso/orbimol/fr/index-fr.shtml)
+- Classification periodique des elements : [PTable](https://ptable.com/) ou [Webelements](https://www.webelements.com/)
 - [Animations sympas](http://www.ostralo.net/3_animations/animations_chim.htm)
 - [Application animations](www.ostralo.net/3_animations/swf/molecule3D.swf) (pas sur que ca marche)
+- [Visualisation de molécules 2D-3D MolView](https://molview.org/)
+- [Visualisation des mailles cristallines Geogebra](https://www.geogebra.org/m/gq4ewapb#material/hpftx5fb)
+
+
+<h3> Autres sites </h3>
+
+- [Cours Jussieu](https://www.lct.jussieu.fr/pagesperso/chaquin/)
+- [Cours atome Hydrogene](https://www.lct.jussieu.fr/pagesperso/chaquin/2.Atome_Hydrogene.pdf)
 - [Culture chimie](http://culturesciences.chimie.ens.fr/)
 - [pH scale](https://www.compoundchem.com/2015/07/09/ph-scale/)
 - [Bases des manips](http://chimactiv.agroparistech.fr/fr/bases)
-- [Visualisation de molécules 2D-3D](https://molview.org/)
 - [Détails sur les éléments chimiques](https://www.elementschimiques.fr/?fr)
-- [Cours Jussieu](https://www.lct.jussieu.fr/pagesperso/chaquin/)
-- []()
-- []()
+- [Site Geogebra Enseignement Scientifique Lycee](https://www.geogebra.org/m/gq4ewapb)
 - []()
 - []()
 
