@@ -1,9 +1,9 @@
 # Agrégation
 
-[Physique](Physique/ind.md)
+[Physique](Physique/physique.md)
 
-[Chimie](Chimie/ind.md)
+[Chimie](Chimie/chimie.md)
 
-[Montages](Montages/ind.md)
+[Montages](Montages/montages.md)
 
-[Divers](Divers/ind.md)
+[Divers](Divers/divers.md)

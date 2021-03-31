@@ -11,7 +11,7 @@
 - [Agregat](Agregat.pdf)
 - [BUP](BUP.zip)
 
-<h2> Sites internets </h2>
+<h2> Sites internets generaux </h2>
 
 - [BUP](http://bupdoc.udppc.asso.fr/index.php)
 - [Dropbox Montrouge](https://www.dropbox.com/sh/r5ludizflagvo9x/AACGze6owqN-NcmmYoFLIzb8a?dl=0)
@@ -19,17 +19,7 @@
 - [Montrouge](http://ressources.agreg.phys.ens.fr/ressources/)
 - [Hugo Roussille](https://arah.fr/hroussille/enseignement.html)
 - [Jules Fillette](https://www.eleves.ens.fr/home/fillette/agregation.html)
-- [Git Jeremy Neveu](https://gitlab.in2p3.fr/jeremy.neveu)
-- [IOGS](http://paristech.institutoptique.fr/)
-- [Cours electromagnetisme Francois Marquier](http://paristech.institutoptique.fr/site.php?id=19&fileid=13533)
-- [Cours physique statistique JJG](http://paristech.institutoptique.fr/site.php?id=274&fileid=22021)
 - [Super site de prof de prépa](https://sites.google.com/site/denismerigoux/)
 - [Ma thèse](https://tel.archives-ouvertes.fr/tel-02452302)
+- [Très bonnes illustrations de plein de phénomènes](https://fr.khanacademy.org/science/physics/)
 
-
-<h3> Chimie </h3> 
-- Classification périodique des éléments : [PTable](https://ptable.com/) ou [Webelements](https://www.webelements.com/)
-- [Géométrie molécules VSEPR](https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes_fr.html)
-- [Animations sympas](http://www.ostralo.net/3_animations/animations_chim.htm)
-- [Source ENS chimie](http://culturesciences.chimie.ens.fr/)
-- []()
