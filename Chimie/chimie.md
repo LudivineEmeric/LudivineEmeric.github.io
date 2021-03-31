@@ -19,7 +19,7 @@
 - [Application animations VSEPR/molecules reelles](molecule-shapes_fr.html) (source=[site](https://phet.colorado.edu/fr/simulation/molecule-shapes))
 - [Geometrie molécules VSEPR](https://phet.colorado.edu/sims/html/molecule-shapes/latest/molecule-shapes_fr.html)
 - [Orbimol (orbitales moleculaires)](https://www.lct.jussieu.fr/pagesperso/orbimol/fr/index-fr.shtml)
-- Classification periodique des elements : [PTable](https://ptable.com/) ou [Webelements](https://www.webelements.com/)
+- Classification periodique des elements : [PTable](https://ptable.com/) ou [Webelements](https://www.webelements.com/) ou [Elementarium](https://www.lelementarium.fr/)
 - [Animations sympas](http://www.ostralo.net/3_animations/animations_chim.htm)
 - [Application animations](www.ostralo.net/3_animations/swf/molecule3D.swf) (pas sur que ca marche)
 - [Visualisation de molécules 2D-3D MolView](https://molview.org/)
@@ -37,4 +37,9 @@
 - [Site Geogebra Enseignement Scientifique Lycee](https://www.geogebra.org/m/gq4ewapb)
 - []()
 - []()
+
+
+<h3> ValRep <\h3>
+- [Laicite](https://cache.media.eduscol.education.fr/file/laicite/07/9/Vademecum_Laicite_1179079.pdf)
+
 
