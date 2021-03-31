@@ -39,7 +39,7 @@
 - []()
 
 
-<h3> ValRep <\h3>
+<h3> ValRep </h3>
 - [Laicite](https://cache.media.eduscol.education.fr/file/laicite/07/9/Vademecum_Laicite_1179079.pdf)
 
 
