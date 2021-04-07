@@ -1,6 +1,6 @@
 # Agrégation
 
-[Physique](Physique/physique.md) <pre>	</pre> [Chimie](Chimie/chimie.md) \t [Montages](Montages/montages.md) \t [Divers](Divers/divers.md)
+[Physique](Physique/physique.md)  &#263A; [Chimie](Chimie/chimie.md) &#263B; [Montages](Montages/montages.md) &#2663; [Divers](Divers/divers.md)
 
 
 <h3> Sites perso </h3>
