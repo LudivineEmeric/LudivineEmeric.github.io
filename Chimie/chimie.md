@@ -12,6 +12,8 @@
 
 <h2> Pictures </h2>
 
+- [Tableau periodique](tableau_periodique-couleur.png)
+
 
 <h2> Ressources </h2>
 
