@@ -13,6 +13,9 @@
 - [Agregat](Agregat.pdf)
 - [BUP](BUP.zip)
 
+<h3> Autres </h3>
+- [Chaines youtube interessantes](Youtube_sciences.docx)
+
 
 
 
