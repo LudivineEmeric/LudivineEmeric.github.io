@@ -34,3 +34,7 @@
 
 <h3> Autres </h3>
 - [Ma thèse](https://tel.archives-ouvertes.fr/tel-02452302)
+- [Playlist videos Physique](https://www.youtube.com/playlist?list=PLl-rG-yzY4gGZqXF_3sEY-aBF8BYeDlno)
+- [Playlist videos Chimie](https://www.youtube.com/playlist?list=PLl-rG-yzY4gF0f_tU5eXaZijNIBZdfc6y)
+	
+	
