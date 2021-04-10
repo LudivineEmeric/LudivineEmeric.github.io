@@ -26,6 +26,7 @@
 - [Application animations](www.ostralo.net/3_animations/swf/molecule3D.swf) (pas sur que ca marche)
 - [Visualisation de molécules 2D-3D MolView](https://molview.org/)
 - [Visualisation des mailles cristallines Geogebra](https://www.geogebra.org/m/gq4ewapb#material/hpftx5fb)
+- [Base de données spectres IR](https://webbook.nist.gov/chemistry/form-ser/)
 
 
 <h3> Autres sites </h3>

@@ -32,6 +32,10 @@
 - [Julien Froustey](https://www.eleves.ens.fr/home/froustey/Plans_JF_2019.pdf)
 - [Etienne Thiberge](http://www.etienne-thibierge.fr/agreg.php)
 
+<h3> Python </h3>
+- [Numpy](https://numpy.org/doc/stable/)
+- [Matplotlib](https://matplotlib.org/stable/index.html)
+
 <h3> Autres </h3>
 - [Ma thèse](https://tel.archives-ouvertes.fr/tel-02452302)
 - [Playlist videos Physique](https://www.youtube.com/playlist?list=PLl-rG-yzY4gGZqXF_3sEY-aBF8BYeDlno)
