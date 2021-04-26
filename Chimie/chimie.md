@@ -14,6 +14,10 @@
 
 - [Tableau periodique](tableau_periodique-couleur.png)
 
+<h2> Videos </h2>
+
+- [Ractions : electrolyse de l'eau...](https://www.beautifulchemistry.net/reaction)
+
 
 <h2> Ressources </h2>
 
