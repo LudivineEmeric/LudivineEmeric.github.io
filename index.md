@@ -29,6 +29,7 @@
 
 <h3> Anciens </h3>
 - [Hugo Roussille](https://arah.fr/hroussille/enseignement.html)
+- [Erwan Allys](http://www.lra.ens.fr/~allys/files/PlanAgreg.pdf)
 - [Jules Fillette](https://www.eleves.ens.fr/home/fillette/agregation.html)
 - [Julien Froustey](https://www.eleves.ens.fr/home/froustey/Plans_JF_2019.pdf)
 - [Etienne Thiberge](http://www.etienne-thibierge.fr/agreg.php)
