@@ -31,7 +31,7 @@
 - [Visualisation de molécules 2D-3D MolView](https://molview.org/)
 - [Visualisation des mailles cristallines Geogebra](https://www.geogebra.org/m/gq4ewapb#material/hpftx5fb)
 - [Base de données spectres IR](https://webbook.nist.gov/chemistry/form-ser/)
-
+- [Diagrammes de phase](http://www.vle-calc.com/phase_diagram.html)
 
 <h3> Autres sites </h3>
 
