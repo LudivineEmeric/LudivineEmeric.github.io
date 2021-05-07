@@ -34,6 +34,7 @@
 - [Jules Fillette](https://www.eleves.ens.fr/home/fillette/agregation.html)
 - [Julien Froustey](https://www.eleves.ens.fr/home/froustey/Plans_JF_2019.pdf)
 - [Etienne Thiberge](http://www.etienne-thibierge.fr/agreg.php)
+- [Hincelin](https://uhincelin.pagesperso-orange.fr/teaching.html)
 
 <h3> Python </h3>
 - [Numpy](https://numpy.org/doc/stable/)
