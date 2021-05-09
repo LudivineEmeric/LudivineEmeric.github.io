@@ -44,6 +44,7 @@
 - [Site Geogebra Enseignement Scientifique Lycee](https://www.geogebra.org/m/gq4ewapb)
 - [Manuels scolaires Lycée](https://mesmanuels.fr/?version=acces-libre&discipline=physique-chimie)
 - [Manuels scolaires Physique-Chimie Spé](https://manuelnumeriquemax.belin.education/#books)
+-[Chimie STL Montpellier](https://spcl.ac-montpellier.fr/moodle/course/view.php?id=61)
 
 
 <h3> ValRep </h3>

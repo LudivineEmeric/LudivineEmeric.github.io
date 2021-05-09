@@ -27,7 +27,10 @@
 - [Cultures sciences physique](http://culturesciencesphysique.ens-lyon.fr/)
 - [Tout est quantique](https://toutestquantique.fr/)
 - [Plein de ressources cours PSI, colles MP-PC](https://phypsiteiffel.fr/)
+- [Cours Alain Lerille](http://alain.lerille.free.fr/index_fiches.php)
 - [Banque d'images CNRS](https://images.cnrs.fr/)
+- [The Physics Teacher](https://aapt.scitation.org/journal/pte)
+- [Eduscol](https://eduscol.education.fr/2318/physique-chimie)
 
 
 <h3> Anciens </h3>
