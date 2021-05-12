@@ -45,7 +45,9 @@
 - [Manuels scolaires Lycée](https://mesmanuels.fr/?version=acces-libre&discipline=physique-chimie)
 - [Manuels scolaires Physique-Chimie Spé](https://manuelnumeriquemax.belin.education/#books)
 - [Chimie STL Montpellier](https://spcl.ac-montpellier.fr/moodle/course/view.php?id=61)
-- [Manuel Terminale](https://manuelnumeriquemax.belin.education/physique_chimie-terminale/topics/start)
+- [Manuel Terminale spé](https://manuelnumeriquemax.belin.education/physique_chimie-terminale/topics/start)
+- [Manuel Terminale STI2D](https://demo.libmanuels.fr/demo/9782206104980/specimen/0/?title=Physique%20-%20Chimie%20Tle%20STI2D%20(2020)&editor=Delagrave&version=2)
+- [Manuel Terminale STL]()
 
 
 <h3> ValRep </h3>
