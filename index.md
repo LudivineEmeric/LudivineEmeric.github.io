@@ -36,9 +36,9 @@
 <h3> Anciens </h3>
 - [Hugo Roussille](https://arah.fr/hroussille/enseignement.html)
 - [Erwan Allys](http://www.lra.ens.fr/~allys/files/PlanAgreg.pdf)
-- [Jules Fillette](https://www.eleves.ens.fr/home/fillette/agregation.html)
+- [Jules Fillette](https://www.lpens.ens.psl.eu/jfillette/)
 - [Julien Froustey](https://www.eleves.ens.fr/home/froustey/Plans_JF_2019.pdf)
-- [Etienne Thiberge](http://www.etienne-thibierge.fr/agreg.php)
+- [Etienne Thibierge](http://www.etienne-thibierge.fr/agreg.php)
 - [Hincelin](https://uhincelin.pagesperso-orange.fr/teaching.html)
 
 <h3> Python </h3>
