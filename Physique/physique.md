@@ -9,6 +9,7 @@
 - [Notes](notes.docx)
 
 <h2> Pictures </h2>
+- [Alain Le Rille, plein d'animations](http://alain.lerille.free.fr/index_media.php)
 
 <h2> Ressources </h2>
 
