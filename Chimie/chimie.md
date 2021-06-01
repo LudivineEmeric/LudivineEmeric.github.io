@@ -16,10 +16,14 @@
 
 <h2> Videos </h2>
 
-- [Ractions : electrolyse de l'eau...](https://www.beautifulchemistry.net/reaction)
+- [Reactions : electrolyse de l'eau...](https://www.beautifulchemistry.net/reaction)
 
 
 <h2> Ressources </h2>
+
+<h3> Outils expérimentaux </h3>
+
+-[Calculateur de concentrations](https://www.periodni.com/fr/preparation_des_solutions.php)
 
 <h3> Applications </h3>
 - [Application animations VSEPR/molecules reelles](molecule-shapes_fr.html) (source=[site](https://phet.colorado.edu/fr/simulation/molecule-shapes))
