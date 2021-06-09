@@ -52,10 +52,11 @@
 - [Manuel Terminale spé](https://manuelnumeriquemax.belin.education/physique_chimie-terminale/topics/start)
 - [Manuel Terminale STI2D](https://demo.libmanuels.fr/demo/9782206104980/specimen/0/?title=Physique%20-%20Chimie%20Tle%20STI2D%20(2020)&editor=Delagrave&version=2)
 - [Manuel Terminale STI2D](https://mesmanuels.fr/acces-libre/9782016279427)
-- [Manuel Premiere STI2D](https://mesmanuels.fr/acces-libre/9782017098324)
+- [Manuel Première STI2D](https://mesmanuels.fr/acces-libre/9782017098324)
+- [Manuels filière générale](https://www.lelivrescolaire.fr/matiere/physique-chimie)
 
 
 <h3> ValRep </h3>
-- [Laicite](https://cache.media.eduscol.education.fr/file/laicite/07/9/Vademecum_Laicite_1179079.pdf)
+- [Laicité](https://cache.media.eduscol.education.fr/file/laicite/07/9/Vademecum_Laicite_1179079.pdf)
 
 
