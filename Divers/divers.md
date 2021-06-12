@@ -6,7 +6,7 @@
 
 - [Plans Jules Fillette](JF.pdf) 
 - [Plans Julien Froustey](JFr.pdf)
-- Plans Hugo Roussille : [Montages](HR_montages.pdf), [LP](HR_physique.pdf), [LC](HR_chimie.pdf) 
+- [Plans Hugo Roussille](https://arah.fr/hroussille/enseignement.html) : [Montages](HR_montages.pdf), [LP](HR_physique.pdf), [LC](HR_chimie.pdf) 
 - Alexandra d'Arco : [Montages](https://www.eleves.ens.fr/home/fillette/Alex_MP/), [LP](https://www.eleves.ens.fr/home/fillette/Alex_LP/), [LC](https://www.eleves.ens.fr/home/fillette/Alex_LC/)
 
 
