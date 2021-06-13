@@ -2,6 +2,6 @@
 
 <h2> Plans </h2>
 
-<h2> Slides </h2>
+[Montages](Montages.docx)
 
 <h2> Fiches manip </h2>

@@ -1,0 +1,15 @@
+Wien
+H0/sqrt(1+Q^2*(x/omega0-omega0/x)^2)
+
+Osc
+A*exp((x-x0)/tau)*sin(sqrt(1-(1/tau/10^4)^2)*10^4*(x-x0)+phi)+B
+
+A
+1,60000e-08
+
+tau
+4,26000e-03
+
+
+glycerol
+(1.47-1.33)*0.5*0.01/(2*sqrt(3.14159*D*(x+x0)))

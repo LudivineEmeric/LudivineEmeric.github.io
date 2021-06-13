@@ -1,4 +1,4 @@
-s# Agrégation
+# Agrégation
 
 [Physique](Physique/physique.md)  &#164; [Chimie](Chimie/chimie.md) &#164; [Montages](Montages/montages.md) &#164; [Divers](Divers/divers.md)
 

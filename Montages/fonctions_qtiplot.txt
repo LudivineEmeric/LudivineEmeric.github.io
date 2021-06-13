@@ -1,0 +1,5 @@
+Diffraction, sinc^2
+I_b+I_0*(sin(pi*(x-x0)/A)/(pi*(x-x0)/A))^2
+
+Corps noir, a verif
+K*((x+273.15)^4-x0^4)
