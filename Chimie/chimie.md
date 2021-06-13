@@ -36,6 +36,7 @@
 - [Visualisation des mailles cristallines Geogebra](https://www.geogebra.org/m/gq4ewapb#material/hpftx5fb)
 - [Base de données spectres IR](https://webbook.nist.gov/chemistry/form-ser/)
 - [Diagrammes binaires](http://www.vle-calc.com/phase_diagram.html)
+- [Spectres IR](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi)
 
 <h3> Autres sites </h3>
 
