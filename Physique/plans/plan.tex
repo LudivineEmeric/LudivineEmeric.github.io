@@ -1,0 +1,389 @@
+\documentclass[12pt,french,a4paper,oneside]{scrbook}
+\usepackage[top=2cm, bottom=3cm, left=1cm, right=3cm, heightrounded,
+  marginparwidth=2cm, marginparsep=3mm]{geometry}
+\usepackage{fontspec}
+\setmainfont{Linux Libertine O}
+\usepackage[french]{babel}
+\usepackage[bookmarks=true]{hyperref}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+%\usepackage{commath}
+\usepackage[dvipsnames]{xcolor}
+\usepackage[framemethod=tikz]{mdframed}
+\usepackage{sectsty}
+\usepackage{csquotes}
+\usepackage{wrapfig}
+\usepackage{ragged2e}
+\usepackage[locale=FR, exponent-product=., inter-unit-product =\cdot, binary-units]{siunitx}
+\usepackage{etex}
+\usepackage{m-pictex,m-ch-en}
+\usepackage{mhchem}
+\usepackage{fourier}
+\usepackage{interval}
+\usepackage{graphicx}
+\usepackage{circuitikz}
+\usepackage{esvect}
+\usepackage{mathtools}
+\usepackage{sectsty}
+\usepackage{physics}
+\usepackage{url}
+\usepackage[most]{tcolorbox}
+\usepackage{tikz}
+\usetikzlibrary{calc,patterns,decorations.pathmorphing,decorations.markings}
+
+\usepackage[backend=biber,
+            bibencoding=inputenc,
+            hyperref=auto,
+            refsection=chapter]{biblatex}
+\addbibresource{biblio.bib}
+
+\setcounter{tocdepth}{0}
+
+% Définition du style
+
+\hypersetup{
+	colorlinks   = true, %Colours links instead of ugly boxes
+	linkcolor={red!50!black},
+	citecolor={blue!50!black},
+	urlcolor={blue!80!black}
+}
+
+\definecolor{mybluei}{RGB}{28,138,207} % Cadre leçon
+\definecolor{myblueii}{RGB}{131,197,231} % Titre leçon
+\definecolor{myblueiii}{RGB}{11,53,79} % Bleu foncé cadre Niv, Message, Biblio, Prérequis
+\definecolor{myblueii}{RGB}{19,61,87} % Titre leçon
+\definecolor{mybluei}{RGB}{27,69,95} % Cadre leçon
+
+\definecolor{myorange}{RGB}{255,95,0}
+\definecolor{myviolet}{RGB}{79,6,156}
+\definecolor{mygreen}{RGB}{48,130,11}
+\definecolor{myred}{RGB}{215,51,51}
+\definecolor{myyellow}{RGB}{207,162,41}
+\definecolor{mysalmon}{RGB}{215,101,51}
+
+\mdfdefinestyle{bibliostyle}{frametitle={\tikz[baseline=(current bounding box.east),outer sep=0pt]\node[anchor=east,rectangle,fill=myblueiii]{\color{white}Bibliographie};},innertopmargin=10pt,linecolor=myblueiii,linewidth=2pt,topline=true,frametitleaboveskip=-10pt,}
+
+\mdfdefinestyle{remstyle}{frametitle={\tikz[baseline=(current bounding box.east),outer sep=0pt]\node[anchor=east,rectangle,fill=mybluei]{\color{white}Remarques};},innertopmargin=10pt,linecolor=mybluei,linewidth=2pt,topline=true,frametitleaboveskip=-10pt,}
+
+\mdfdefinestyle{alertstyle}{frametitle={\tikz[baseline=(current bounding box.east),outer sep=0pt]\node[anchor=east,rectangle,fill=myred]{\color{white}Attention};},innertopmargin=10pt,linecolor=myred,linewidth=2pt,topline=true,frametitleaboveskip=-10pt,}
+
+\addtokomafont{disposition}{\usefont{T1}{qhv}{b}{n}\selectfont}
+
+\addtokomafont{chapter}{\fontsize{22pt}{22pt}\color{myblueii}}
+\newkomafont{chapternumber}{\fontsize{50}{120}\selectfont\color{white}}
+\newkomafont{chaptername}{\itshape\rmfamily\small\color{white}}
+%\addtokomafont{chapterentry}{\normalcolor}% entrys in tableofcontents not blue
+
+\addtokomafont{section}{\fontsize{14pt}{14pt}\selectfont}
+\newkomafont{sectionnumber}{\fontsize{18pt}{18pt}\selectfont\rmfamily\color{white}}
+
+\addtokomafont{subsection}{\fontsize{12pt}{12pt}\selectfont}
+\newkomafont{subsectionnumber}{\fontsize{16pt}{16pt}\selectfont\rmfamily\color{white}}
+
+\setcounter{secnumdepth}{\subsectionnumdepth}% subsubsection and lower unnumbered
+
+% \renewcommand\chapterformat{%
+%   \raisebox{-6pt}{\colorbox{mybluei}{%
+%       \parbox[b][60pt]{45pt}{\centering%
+%         {\renewcommand{\chaptername}{Montage}\usekomafont{chaptername}{\chaptername}}%
+%         \vfill{\usekomafont{chapternumber}{\thechapter\autodot}}%
+%         \vspace{6pt}%
+%       }}}\enskip}
+
+\newcommand*{\chapmark}{%
+  \renewcommand{\chaptername}{Leçon}
+  \begin{tcolorbox}[title=\centering\usekomafont{chaptername}{\chaptername},colframe=mybluei,colback=mybluei,hbox,sharp corners,left=1mm, right=1mm]
+    \centering\usekomafont{chapternumber}{\thechapter\autodot}
+  \end{tcolorbox}%
+}
+\renewcommand*{\chapterformat}{%
+  \begin{minipage}[c]{\widthof{\chapmark}}
+    \chapmark
+  \end{minipage}%
+}
+
+\NewDocumentCommand\Chapter{o m}{% note the uppercase "C"
+  \IfValueTF{#1}% optional argument given or not
+  {% with optional argument:
+    \chapter[#1]{%
+      \begin{minipage}[b]{\textwidth-\widthof{\chapmark}}
+
+      #2
+      \end{minipage}}%
+  }{% without optional argument:
+    \chapter[#2]{%
+      \begin{minipage}[b]{\textwidth-\widthof{\chapmark}}
+      #2
+      \end{minipage}}%
+  }
+}
+
+\chapterfont{\color{myblueii}}
+\partfont{\color{myorange}}
+
+\renewcommand\thesection{\arabic{section}}
+
+% Définition des macros
+
+\newcommand{\iu}{\mathrm{i}\mkern1mu}
+\newcommand{\ju}{\mathrm{j}\mkern1mu}
+\renewcommand\div[1]{\mathrm{div}\,#1}
+\newcommand{\dive}{\mathrm{div}\,}
+\newcommand{\ddroit}{\mathrm{d}\,}
+
+\renewcommand\grad[1]{\vv{\mathrm{grad}}\,#1}
+\newcommand\rot[1]{\vv{\mathrm{rot}}\,#1}
+%\DeclareMathOperator\erf{erf}
+%\DeclareMathOperator{\sign}{sign}
+
+%\newcommand{\Arch}{\operatorname{\mathit{A\kern-.06em r}}} % http://de.wikipedia.org/wiki/Archimedes-Zahl
+%\newcommand{\Biot}{\operatorname{\mathit{B\kern-.06em i}}} % http://de.wikipedia.org/wiki/Biot-Zahl
+%\newcommand{\Cauc}{\operatorname{\mathit{C\kern-.07em a}}} % http://de.wikipedia.org/wiki/Cauchy-Zahl
+%\newcommand{\Damk}{\operatorname{\mathit{D\kern-.06em a}}} % http://de.wikipedia.org/wiki/Damk%C3%B6hler-Zahl
+%\newcommand{\Eule}{\operatorname{\mathit{E\kern-.03em u}}} % http://de.wikipedia.org/wiki/Euler-Zahl
+%\newcommand{\Four}{\operatorname{\mathit{F\kern-.10em o}}} % http://de.wikipedia.org/wiki/Fourier-Zahl
+%\newcommand{\Frou}{\operatorname{\mathit{F\kern-.07em r}}} % http://de.wikipedia.org/wiki/Froude-Zahl
+%\newcommand{\Gras}{\operatorname{\mathit{G\kern-.05em r}}} % http://de.wikipedia.org/wiki/Grashof-Zahl
+%\newcommand{\Karl}{\operatorname{\mathit{K\kern-.11em a}}} % http://de.wikipedia.org/wiki/Karlovitz-Zahl
+%\newcommand{\Knud}{\operatorname{\mathit{K\kern-.11em n}}} % http://de.wikipedia.org/wiki/Knudsen-Zahl
+%\newcommand{\Lewi}{\operatorname{\mathit{L\kern-.05em e}}} % http://de.wikipedia.org/wiki/Lewis-Zahl
+%\newcommand{\Mach}{\operatorname{\mathit{M\kern-.10em a}}} % http://de.wikipedia.org/wiki/Mach-Zahl
+%\newcommand{\Nuss}{\operatorname{\mathit{N\kern-.09em u}}} % http://de.wikipedia.org/wiki/Nusselt-Zahl
+%\newcommand{\Pecl}{\operatorname{\mathit{P\kern-.08em e}}} % http://de.wikipedia.org/wiki/P%C3%A9clet-Zahl
+%\newcommand{\Pran}{\operatorname{\mathit{P\kern-.03em r}}} % http://de.wikipedia.org/wiki/Prandtl-Zahl
+%\newcommand{\Rayl}{\operatorname{\mathit{R\kern-.04em a}}} % http://de.wikipedia.org/wiki/Rayleigh-Zahl
+%\newcommand{\Reyn}{\operatorname{\mathit{R\kern-.04em e}}} % http://de.wikipedia.org/wiki/Reynolds-Zahl
+%\newcommand{\Schm}{\operatorname{\mathit{S\kern-.07em c}}} % http://de.wikipedia.org/wiki/Schmidt-Zahl
+%\newcommand{\Sher}{\operatorname{\mathit{S\kern-.07em h}}} % http://de.wikipedia.org/wiki/Sherwood-Zahl
+%\newcommand{\Stro}{\operatorname{\mathit{S\kern-.07em r}}} % http://de.wikipedia.org/wiki/Strouhal-Zahl
+%\newcommand{\Webe}{\operatorname{\mathit{W\kern-.14em e}}} % http://de.wikipedia.org/wiki/Weber-Zahl
+
+%\newcommand{\biblio}{\begin{mdframed}[style=bibliostyle]\relax \printbibliography[heading=none]\end{mdframed}}
+\newcommand{\biblio}{\hspace*{-\parindent}\colorbox{myblueiii}{\textcolor{white}{Bibliographie}}
+\printbibliography[heading=none]
+}
+
+\newcommand\lemessage[1]{
+  \hspace*{-\parindent}\colorbox{myblueiii}{\textcolor{white}{Message}}\hspace{5pt} #1 \vspace{0.5em}
+}
+
+\newenvironment{remarques}{
+  \begin{mdframed}[style=remstyle]
+}
+{\end{mdframed}}
+
+\newenvironment{attention}{
+  \begin{mdframed}[style=alertstyle]
+}
+{\end{mdframed}}
+
+\newcommand\nivpre[2]{
+\hspace*{-\parindent}%
+\begin{minipage}[t]{0.5\textwidth}
+  \colorbox{myblueiii}{\textcolor{white}{Niveau}}\hspace{5pt} #1
+\end{minipage}
+\begin{minipage}[t]{0.5\textwidth}
+  \colorbox{myblueiii}{\textcolor{white}{Prérequis}}\hspace{5pt} #2
+\end{minipage}
+\vspace{0.5em}
+}
+
+\newcommand\transition[1]{\hspace*{-\parindent}\colorbox{mygreen}{\textcolor{white}{Transition :}}\hspace{5pt} #1}
+
+\newenvironment{ecran}{
+   \begin{mdframed}[%
+    frametitle={\color{myviolet}Écran},
+    frametitlealignment={},
+    frametitlerule=false,
+    topline=false,
+    bottomline=false,
+    nobreak=true,
+    linewidth=1mm,
+    leftline=true,
+    linecolor=myviolet,
+    innerleftmargin=10pt,
+]
+}{%
+\end{mdframed}
+}
+
+\newenvironment{experience}{
+   \begin{mdframed}[%
+    frametitle={\color{mysalmon}Expérience},
+    frametitlealignment={},
+    frametitlerule=false,
+    topline=false,
+    bottomline=false,
+    nobreak=true,
+    linewidth=1mm,
+    leftline=true,
+    linecolor=mysalmon,
+    innerleftmargin=10pt,
+]
+}{%
+\end{mdframed}
+}
+
+\makeatletter
+\def\blx@refpatch@chapter#1{%
+	\ifundef\chapter
+	{\blx@err@nodocdiv{chapter}}
+	{\pretocmd\@makechapterhead{#1}
+		{}
+		{\blx@err@patch{\string\@makechapterhead}}
+		\pretocmd\@makeschapterhead{#1}
+		{}
+		{\blx@err@patch{\string\@makeschapterhead}}}}
+\makeatother
+
+% change allure de la table des matières : 
+\usepackage{tocloft}
+\renewcommand{\cftchapfont}{\scshape}
+\renewcommand{\cftsecfont}{\bfseries}
+\renewcommand{\cftfigfont}{Figure }
+\renewcommand{\cfttabfont}{Table }
+%
+
+\title{Leçons de physique}
+\author{Ludivine Emeric}  % Mettre l'auteur ici
+\date{\today}  % Mettre la date si besoin
+
+\begin{document}
+\maketitle
+
+{
+	\hypersetup{
+		linkcolor={black},
+	}
+	\tableofcontents
+}
+
+%\part{Transverses}
+\include{LPn04}
+\include{LPn47}
+\include{LPn11}
+\include{LPn40}
+\include{LPn16}
+\include{LPn30}
+\include{LPn07}
+
+
+
+%\part{Mécanique}
+\include{LP01}
+\include{LP02}
+\include{M1}
+\include{M2}
+\include{M3}
+\include{M4}
+\include{M5}
+\include{LPn33}
+\include{LPn28}
+\include{LPn26}
+\include{LPn46}
+
+
+%\part{Mécanique des fluides}
+
+\include{LP03}
+\include{LP04}
+\include{LP05}
+\include{LPn25}
+\include{LPn10}
+\include{LPn12}
+
+
+%\part{Thermodynamique}
+
+\include{LP06}
+\include{LP07}
+\include{LP08}
+\include{T1}
+\include{T2}
+\include{T3}
+\include{T4}
+\include{T5}
+\include{LPn36}
+\include{LPn41}
+\include{LPn21}
+\include{LPn22}
+\include{LPn37}
+\include{LPn45}
+
+
+
+%\part{Electromagnétisme}
+
+\include{LP09}
+\include{LP10}
+\include{LP22}
+\include{LP23} 
+\include{LP24}
+\include{LP25}
+\include{E1}
+\include{LPn02}
+\include{LPn15}
+\include{LPn20}
+
+%\part{Ondes / électronique}
+
+\include{LP11}
+\include{LP12}
+\include{LP13}
+\include{LP14}
+\include{LP15}
+\include{On1}
+\include{On2}
+\include{On3}
+\include{LPn08}
+\include{LPn01}
+\include{LPn06}
+\include{LPn05}
+\include{LPn42}
+\include{LPn13}
+\include{LPn29}
+\include{LPn23}
+\include{LPn09}
+
+
+%\part{Optique}
+
+\include{LP16}
+\include{LP17}
+\include{LP18}
+\include{LP19} 
+\include{LP20} 
+\include{LP21}
+\include{O1}
+\include{O2}
+\include{LPn0}
+\include{LPn31}
+\include{LPn39}
+\include{LPn44}
+\include{LPn17}
+\include{LPn24}
+\include{LPn44}
+
+%\part{Quantique}
+
+\include{Q1}
+\include{Q2}
+\include{Q3}
+\include{Q4}
+\include{LPn18}
+\include{LPn32}
+\include{LPn38}
+
+
+%\part{Matière, solide}
+
+\include{S1}
+\include{S2}
+\include{S3}
+\include{LPn03}
+\include{LPn19}
+
+
+
+\end{document}

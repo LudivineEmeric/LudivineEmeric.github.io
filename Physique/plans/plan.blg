@@ -1,0 +1,249 @@
+[0] Config.pm:354> INFO - This is Biber 2.7
+[0] Config.pm:357> INFO - Logfile is 'plan.blg'
+[45] biber-darwin:303> INFO - === Mon Jun  7, 2021, 15:06:44
+[93] Biber.pm:359> INFO - Reading 'plan.bcf'
+[336] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[337] Biber.pm:835> INFO - Found 0 citekeys in bib section 1
+[337] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[337] Biber.pm:835> INFO - Found 2 citekeys in bib section 2
+[337] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[337] Biber.pm:835> INFO - Found 1 citekeys in bib section 3
+[337] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[337] Biber.pm:835> INFO - Found 0 citekeys in bib section 4
+[337] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[337] Biber.pm:835> INFO - Found 0 citekeys in bib section 5
+[337] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[337] Biber.pm:835> INFO - Found 0 citekeys in bib section 6
+[337] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[337] Biber.pm:835> INFO - Found 0 citekeys in bib section 7
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 8
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 9
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 10
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 11
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 12
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 13
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 14
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[338] Biber.pm:835> INFO - Found 0 citekeys in bib section 15
+[339] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[339] Biber.pm:835> INFO - Found 0 citekeys in bib section 16
+[339] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[339] Biber.pm:835> INFO - Found 0 citekeys in bib section 17
+[339] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[339] Biber.pm:835> INFO - Found 0 citekeys in bib section 18
+[339] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[339] Biber.pm:835> INFO - Found 0 citekeys in bib section 19
+[339] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[339] Biber.pm:835> INFO - Found 0 citekeys in bib section 20
+[339] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[339] Biber.pm:835> INFO - Found 0 citekeys in bib section 21
+[339] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[339] Biber.pm:835> INFO - Found 0 citekeys in bib section 22
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 23
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 24
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 25
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 26
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 27
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 28
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 29
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[340] Biber.pm:835> INFO - Found 0 citekeys in bib section 30
+[341] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[341] Biber.pm:835> INFO - Found 0 citekeys in bib section 31
+[341] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[341] Biber.pm:835> INFO - Found 0 citekeys in bib section 32
+[341] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[341] Biber.pm:835> INFO - Found 3 citekeys in bib section 33
+[341] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[341] Biber.pm:835> INFO - Found 0 citekeys in bib section 34
+[341] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[341] Biber.pm:835> INFO - Found 0 citekeys in bib section 35
+[341] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[341] Biber.pm:835> INFO - Found 0 citekeys in bib section 36
+[341] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[341] Biber.pm:835> INFO - Found 0 citekeys in bib section 37
+[341] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[342] Biber.pm:835> INFO - Found 0 citekeys in bib section 38
+[342] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[342] Biber.pm:835> INFO - Found 0 citekeys in bib section 39
+[342] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[342] Biber.pm:835> INFO - Found 0 citekeys in bib section 40
+[342] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[342] Biber.pm:835> INFO - Found 0 citekeys in bib section 41
+[342] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[342] Biber.pm:835> INFO - Found 0 citekeys in bib section 42
+[342] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[342] Biber.pm:835> INFO - Found 0 citekeys in bib section 43
+[342] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[343] Biber.pm:835> INFO - Found 0 citekeys in bib section 44
+[343] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[343] Biber.pm:835> INFO - Found 0 citekeys in bib section 45
+[343] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[343] Biber.pm:835> INFO - Found 0 citekeys in bib section 46
+[343] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 47
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 48
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 49
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 50
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 51
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 52
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 53
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[344] Biber.pm:835> INFO - Found 0 citekeys in bib section 54
+[345] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[345] Biber.pm:835> INFO - Found 0 citekeys in bib section 55
+[345] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[345] Biber.pm:835> INFO - Found 4 citekeys in bib section 56
+[345] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[345] Biber.pm:835> INFO - Found 1 citekeys in bib section 57
+[345] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[345] Biber.pm:835> INFO - Found 0 citekeys in bib section 58
+[345] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[345] Biber.pm:835> INFO - Found 0 citekeys in bib section 59
+[345] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[345] Biber.pm:835> INFO - Found 0 citekeys in bib section 60
+[345] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[345] Biber.pm:835> INFO - Found 0 citekeys in bib section 61
+[346] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[346] Biber.pm:835> INFO - Found 3 citekeys in bib section 62
+[346] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[346] Biber.pm:835> INFO - Found 0 citekeys in bib section 63
+[346] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[346] Biber.pm:835> INFO - Found 6 citekeys in bib section 64
+[346] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[346] Biber.pm:835> INFO - Found 0 citekeys in bib section 65
+[346] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[346] Biber.pm:835> INFO - Found 0 citekeys in bib section 66
+[346] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[346] Biber.pm:835> INFO - Found 0 citekeys in bib section 67
+[346] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[347] Biber.pm:835> INFO - Found 0 citekeys in bib section 68
+[347] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[347] Biber.pm:835> INFO - Found 0 citekeys in bib section 69
+[347] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[347] Biber.pm:835> INFO - Found 5 citekeys in bib section 70
+[347] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[347] Biber.pm:835> INFO - Found 3 citekeys in bib section 71
+[347] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[347] Biber.pm:835> INFO - Found 0 citekeys in bib section 72
+[348] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[348] Biber.pm:835> INFO - Found 0 citekeys in bib section 73
+[348] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[348] Biber.pm:835> INFO - Found 3 citekeys in bib section 74
+[348] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[348] Biber.pm:835> INFO - Found 0 citekeys in bib section 75
+[348] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[348] Biber.pm:835> INFO - Found 0 citekeys in bib section 76
+[348] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[348] Biber.pm:835> INFO - Found 0 citekeys in bib section 77
+[348] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 78
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 79
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 80
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 81
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 82
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 83
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 84
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 85
+[349] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[350] Biber.pm:835> INFO - Found 0 citekeys in bib section 86
+[350] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[350] Biber.pm:835> INFO - Found 0 citekeys in bib section 87
+[350] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[350] Biber.pm:835> INFO - Found 0 citekeys in bib section 88
+[350] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[350] Biber.pm:835> INFO - Found 0 citekeys in bib section 89
+[350] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[350] Biber.pm:835> INFO - Found 0 citekeys in bib section 90
+[350] Biber.pm:835> INFO - Found 0 citekeys in bib section 0
+[992] Biber.pm:3670> INFO - Processing section 2
+[1022] Biber.pm:3840> INFO - Looking for bibtex format file 'biblio.bib' for section 2
+[1026] bibtex.pm:1435> INFO - Decoding LaTeX character macros into UTF-8
+[1036] bibtex.pm:1292> INFO - Found BibTeX data source 'biblio.bib'
+[1054] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1055] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1055] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'fr-FR'
+[1055] Biber.pm:3505> INFO - No sort tailoring available for locale 'fr-FR'
+[1058] Biber.pm:3670> INFO - Processing section 3
+[1058] Biber.pm:3840> INFO - Looking for bibtex format file 'biblio.bib' for section 3
+[1069] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1069] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1069] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'fr-FR'
+[1069] Biber.pm:3505> INFO - No sort tailoring available for locale 'fr-FR'
+[1072] Biber.pm:3670> INFO - Processing section 33
+[1072] Biber.pm:3840> INFO - Looking for bibtex format file 'biblio.bib' for section 33
+[1087] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1087] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1087] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'fr-FR'
+[1087] Biber.pm:3505> INFO - No sort tailoring available for locale 'fr-FR'
+[1092] Biber.pm:3670> INFO - Processing section 56
+[1093] Biber.pm:3840> INFO - Looking for bibtex format file 'biblio.bib' for section 56
+[1116] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1116] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1116] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'fr-FR'
+[1116] Biber.pm:3505> INFO - No sort tailoring available for locale 'fr-FR'
+[1121] Biber.pm:3670> INFO - Processing section 57
+[1121] Biber.pm:3840> INFO - Looking for bibtex format file 'biblio.bib' for section 57
+[1152] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1153] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1153] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'fr-FR'
+[1153] Biber.pm:3505> INFO - No sort tailoring available for locale 'fr-FR'
+[1155] Biber.pm:3670> INFO - Processing section 62
+[1156] Biber.pm:3840> INFO - Looking for bibtex format file 'biblio.bib' for section 62
+[1176] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1177] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1177] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'fr-FR'
+[1177] Biber.pm:3505> INFO - No sort tailoring available for locale 'fr-FR'
+[1180] Biber.pm:3670> INFO - Processing section 64
+[1181] Biber.pm:3840> INFO - Looking for bibtex format file 'biblio.bib' for section 64
+[1198] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1198] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1198] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'fr-FR'
+[1199] Biber.pm:3505> INFO - No sort tailoring available for locale 'fr-FR'
+[1204] Biber.pm:3670> INFO - Processing section 70
+[1204] Biber.pm:3840> INFO - Looking for bibtex format file 'biblio.bib' for section 70
+[1217] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1217] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1217] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'fr-FR'
+[1218] Biber.pm:3505> INFO - No sort tailoring available for locale 'fr-FR'
+[1221] Biber.pm:3670> INFO - Processing section 71
+[1221] Biber.pm:3840> INFO - Looking for bibtex format file 'biblio.bib' for section 71
+[1233] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1233] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1233] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'fr-FR'
+[1233] Biber.pm:3505> INFO - No sort tailoring available for locale 'fr-FR'
+[1236] Biber.pm:3670> INFO - Processing section 74
+[1237] Biber.pm:3840> INFO - Looking for bibtex format file 'biblio.bib' for section 74
+[1250] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1250] UCollate.pm:68> INFO - Overriding locale 'fr-FR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1250] Biber.pm:3499> INFO - Sorting list 'nty/global/' of type 'entry' with scheme 'nty' and locale 'fr-FR'
+[1250] Biber.pm:3505> INFO - No sort tailoring available for locale 'fr-FR'
+[1253] bbl.pm:608> INFO - Writing 'plan.bbl' with encoding 'UTF-8'
+[1258] bbl.pm:712> INFO - Output to plan.bbl

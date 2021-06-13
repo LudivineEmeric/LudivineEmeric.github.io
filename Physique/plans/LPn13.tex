@@ -1,0 +1,106 @@
+\Chapter{Effet Doppler et applications}
+
+\nivpre{Licence}{
+ \begin{itemize}
+  \item cinématique relativiste
+   \item mécanique classique
+   \item optique ondulatoire
+ \end{itemize}
+}
+
+\lemessage{Tout type d'ondes. Sirènes qui s'approche/s'éloigne, radar voiture et redshift des étoiles qui s'éloignent.}
+
+\biblio{}
+
+\section*{Introduction}
+prononcer Christiane Doppler (autrichien) \\
+fréquence du son détermine sa hauteur (grave/aigu) \\
+émetteur en mouvement : son différent \\
+on le voit avec sirène qui se déplace \\
+parler de monsieur Doppler, proposer mais faux car pas rélativité prise en compte \\
+on va le traiter quantitativement \\
+
+
+%\marginpar{réf. \cite{ToutenunPC_2016},\cite{hecht},\cite{huard_pola}}
+
+\section{Effet Doppler classique}
+$S$ : source d'ondes à la fréquence $\nu_0$, vitesse $v_S$ \\
+$R$ : récepteur, reçoit à $\nu_1$, vitesse $v_R$ \\
+$c$ : célérité des ondes \\
+$\vec{u}$ : vecteur unitaire entre S et R
+
+\subsection{Source mobile, récepteur fixe}
+première impulsion : $t_1'=t_1 + \frac{d_1}{c}$ \\
+deuxième impulsion : $t_2'=t_2 + \frac{d_2}{c}$ \\
+$T_0 = t_2 - t_1$ et $T'=t_2'-t_1'$ : $T'=T_0 + \frac{d_2-d_1}{c}$ \\
+calcul ... \\
+hyp : $\vec{u}$ ne bouge pas trop \\
+
+$f'=f_0 \frac{1}{1-\frac{\vec{v}_S \cdot \vec{u}}{c}}$ \\
+
+Source s'éloigne de R : $f'<f_0$ : le son est plus grave \\
+Source s'approche de R : $f'>f_0$ : le son est plus aigu \\
+
+animation internet : un véhicule émet des ondes en se déplaçant \\
+à l'avant du véhicule : fronts d'onde sont plus resserrés vers l'avant (aigu, longueur d'onde plus faible), plus éloignés vers l'arrière (grave)
+
+\subsection{Source fixe, récepteur mobile}
+
+Astuce : changement de référentiel \\
+$f'=f_0 \left[ 1-\frac{\vec{v}_R \cdot \vec{u}}{c} \right]$ \\
+
+\subsection{Formulation générale}
+$f'=f_0 \frac{c-\vec{v}_R \cdot \vec{u}}{c-\vec{v}_S \cdot \vec{u}}$ \\
+décalage Doppler $\frac{\Delta f}{f_0}$\\
+
+vitesse du son, avion supersonique, formation d'un cône de front d'onde, énergie s'accumule, onde de choc \\
+
+\section{Effet Doppler relativiste} 
+
+transformée de Lorentz \\
+étudier $\omega$ et $\vec{k}$
+$f'=f_0 \sqrt{\frac{c-v}{c+v}}$ \\ 
+Formule de Doppler-Fizeau : $f'=f_0 \gamma \left( 1-\frac{\vec{v}}{c} \cdot \vec{u} \right)$ \\
+si la vitesse est perpendiculaire à l'axe $\vec{u}$, $f'=\gamma f_0 > f_0$ 
+
+
+
+\section{Applications}
+\subsection{Mesure de vitesse : radar}
+détection hétérodyne  \\
+signal reçu : $\omega_r$ \\
+signal émis : $\omega_s$ \\
+multiplieur : on obtient $\omega_r-\omega_s$ et $\omega_r+\omega_s$ \\
+filtre passe-bas : on garde que le signal $\omega_r-\omega_s$
+expérience
+
+\subsection{Élargissement spectral}
+
+
+
+\section*{Conclusion}
+
+décalage longueur d'onde d'une source lumineuse vers le rouge quand elle s'éloigne \\
+application Doppler en médecine : radio qui mesure la vitesse du sang dans vaisseaux sanguins, ultrasons \\
+
+
+\begin{remarques} \begin{itemize} 
+\item obligé de le mettre en niveau L3 et de faire relativiste
+\item l'expérience est incontournable
+\item ODG
+\item important : notion d'invariance, on change de référentiel, on retrouve la même physique, principe de relativité
+\item vitesse relative permet de ne traiter qu'un sens
+\item physiquement, sont-ce deux cas différents ? non, l'un ou l'autre est immobile, le référentiel est galiléen ou non, sans importance, c'est la vitesse d'entraînement de l'un par rapport à l'autre
+\item référentiel : ensemble de coordonnées d'espace-temps qui ont le même temps
+\item être clair sur la définition des vitesses, référentiels, hypothèses
+\item onde de choc en hydrodynamique : discontinuité de la pression qui se propage, voir la théorie
+\item décalage vers le rouge : contexte astrophysique non cosmologique
+\item dilatation des temps : démo avec un photon qui est réfléchi et qu'on "récupère" avec une vitesse de l'émetteur/récepteur
+\item pendant une période, source bouge
+\item faire modèle Newtonien de l'univers en expansion ?
+\item référentiel d'inertie : seule configuration où omega et k sont différents est l'effet Doppler 
+\item référentiel accéléré : le nombre de particules détectées (étude quantique) dépend du référentiel, à la base du rayonnement thermique des trous noir
+\item effet Doppler sur ondes de matière : ondes sismiques, voir application
+\item radar
+\item Doppler application en médecine
+\end{itemize} \end{remarques}

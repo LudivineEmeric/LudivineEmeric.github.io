@@ -1,0 +1,98 @@
+\Chapter{Production et analyse de la lumière polarisée}
+
+\nivpre{L3}{
+ \begin{itemize}
+  \item aspect ondulatoire de la lumière
+  \item physique des ondes
+  \item polarisation rectiligne et loi de Malus
+ \end{itemize}
+}
+
+\lemessage{Lame quart d'onde et lame demi-onde au programme de PC.}
+
+\biblio{}
+
+\section*{Introduction}
+limites de l'optique géométrique \\
+interférences et diffraction : on a mis de côté l'aspect vectoriel de la lumière \\
+on s'y intéresse ici : description, production et analyse \\
+
+\marginpar{réf. \cite{ToutenunPC_2016},\cite{hecht},\cite{huard_pola}}
+
+\section{Production de lumière polarisée}
+\subsection{Etats de polarisation de la lumière}
+Onde plane progressive harmonique OPPH \\
+Expression du champ électrique \\
+déphasage x,y dépend de t en générale : émission thermique, lampe à incandescence est aléatoire par exemple ; pour laser : déphasage constant \\
+on a alors : polarisation rectiligne, circulaire et elliptique \\
+vidéo Youtube avec propagation \\
+
+\subsection{Production de lumière polarisée par absorption}
+absorption : polariseur \\
+dichroïque \\
+visible : absorption par charges accélérées dans le matériau (en fait il y a peu de transmission, bcp de réflexion) \\
+
+
+\subsection{Production par diffusion}
+rayonnement dipolaire \\
+
+\subsection{Production par réflexion vitreuse}
+réflexion sur un dioptre \\
+coefficients de Fresnel \\
+angles de Brewster en polarisation TM : $\tan i_B = \frac{n_1}{n_2}$ 
+exemple pour le verre : $i_b=56^o$ \\
+
+
+
+\section{Analyse d'une lumière polarisée}
+
+
+\subsection{Biréfringence}
+Milieu isotrope : toutes directions ont même indice \\
+Milieu biréfringent : définition, milieu qui possède deux indices de réfraction \\
+soit uniaxe (no,no,ne), soit biaxe (no,ne,ne -- 2 axes optiques) \\
+ex : le quartz est un milieu uniaxe \\
+ie indice ordinaire et indice extraordinaire \\
+ce qui nous intéresse ici : lame taillée parallèlement à axe extraordinaire \\
+axes neutres, bien définir les axes \\
+calcul $Delta\varphi$ \\
+Lame quart d'onde : $\delta=\lambda/4$
+
+\subsection{Action d'une lame quart d'onde}
+incident rectiligne \\
+cas général : polarisation elliptique \\
+si $\alpha=0(\pi/2)$ pola rectiligne, si $\alpha=\pi/4(\pi/2)$ circulaire \\
+incident circulaire : après lame pola rectiligne \\
+incident elliptique : pola rectiligne
+
+\section*{Conclusion}
+mind map disjonction des cas \\
+application : lunettes de soleil, ailleurs dans le spectre électromagnétique : antennes radio \\
+
+
+\begin{remarques} \begin{itemize} 
+\item la polarisation intervient dans interférences
+\item onde plane : la surface d'onde est plane 
+\item progressive : elle se propage dans une direction
+\item on peut avoir des ondes stationnaires : pas de propagation apparente (compensation dues à conditions aux limites)
+\item harmonique : une longueur d'onde = monochromatique
+\item source idéale, laser s'en rapproche le plus
+\item une source dans la pièce, peut on considérer onde plane ? non, quantifier avec atténuation, l'amplitude décroit en A/r
+\item onde plane pour source éloignée : il faut $r>lambda$ et $r>a$
+\item k E B trièdre : toujours vrai ? non : c'est Poynting, E, H ; k, D, B ; k et E ne sont pas orthogonaux dans un milieux avec des charges
+\item elliptique droite ou gauche ? si on prend dans le plan $z=0$, on regarde le déplacement avec le temps, composantes $E_{0,x}$ et $E_{0,y} \cos (\varphi)$ ; $\varphi$ entre 0 et $\pi$ : gauche ; entre 0 et $-\pi$ : droite
+\item polarisation par diffusion : dipôle oscille, pas d'émission dans l'axe du dipôle, il n'y a pas de composante orthoradiale 
+\item réflexion vitreuse dans le cadre de programme PC, diffusion aussi
+\item axe neutre d'une lame : une polarisation rectiligne reste rectiligne
+\item lame à retard : définie à une longueur d'onde donnée
+\item $\Delta\varphi=\frac{2\pi}{\lambda} \Delta n \, e$ : plus $\Delta n \, e$ est grand, moins on est sensible à $\lambda$, tant que multiple impair de $\frac{\lambda}{4}$
+\item voir animation Arnaud + code Python
+\item comment dépolariser la lumière : sur un spectre large une $\lambda/4$ avec une grande épaisseur ou sur un laser activité optique différente spatialement (prisme de Wollaston, Babinet)
+\item $\frac{\lambda}{2}$ est intéressante aussi : rotation d'une polarisation rectiligne 
+\item Brewster astucieusement : un dipôle dans la matière est excité, il n'y a pas de réémission dans l'axe
+\item uniaxe positif : $n_e>n_0$, axe lent : axe extraordinaire (vitesse plus faible) = AO (vitesse radiale e<o)
+\item Negatif : ne<no
+\item Les axes optiques sont les intersections des nappes ordinaire et extraordinaires (apparaît comme milieu isotrope sur ces axes)
+\item Biaxe : 2 AO ; Uniaxe : 1AO
+\item prisme de Wollaston
+\end{itemize} \end{remarques}

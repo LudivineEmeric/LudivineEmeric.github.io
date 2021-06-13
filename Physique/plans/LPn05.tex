@@ -1,0 +1,99 @@
+\Chapter{Oscillateur harmonique : approximation et limitations}
+
+\nivpre{CPGE}{
+ \begin{itemize}
+  \item PFD
+  \item loi des mailles
+  \item équations différentielles
+ \end{itemize}
+}
+
+\lemessage{L'OH c'est partout, c'est la vie. Points importants : conservation énergie mécanique, équipartition de l'énergie, isochronisme des oscillations, oscillations sinusoïdales perpétuelles.}
+
+\biblio{}
+
+\section*{Introduction}
+Comment est défini le temps ? oscillateur naturel \\
+
+%\marginpar{réf. \cite{ToutenunPC_2016},\cite{hecht},\cite{huard_pola}}
+
+\section{Étude d'un oscillateur harmonique}
+\subsection{Observations}
+expérience : masse sur coussin d'air avec 2 ressorts \\
+beau schéma de l'expérience \\
+
+\subsection{Mise en équation}
+PFD à m dans R galiléen projeté sur l'axe Ox \\
+Force de droite $\vec{F}_d$
+Force de gauche $\vec{F}_g$
+ED $\ddot{x}+{\omega_0}^{2} x = 0$, $\omega_0=\sqrt{\frac{2k}{m}}$
+solution $x(t)=A \cos \omega_0 t + B \sin \omega_0 t$
+conditions initiales : $x(0)=x_0$, $\dot{x}_0=0$
+représentation graphique $x=f(t)$, oscillations, période \\
+
+\subsection{Énergie}
+cinétique et potentielle \\
+définition énergie potentielle élastique $\vec{F}_{ressort} \cdot \vec{e}_x = -\frac{\partial E_{pot}}{\partial x}$  \\
+$E_{pot}=2 \times \frac{1}{2} k x^2 $ \\
+$E_c=\frac{1}{2} m \dot{x}^2$, moyenne : $<E_c>=\frac{1}{2} k {x_{0}}^2=<E_{pot}>$ \\
+équipartition de l'énergie \\
+présentation portrait de phase (normalisé) : cercle, sens \\
+acquisition de la position sur logiciel Tracker \\
+tracé portrait de phase : on observe une spirale \\
+transition \\
+
+\section{Approximations et limitations}
+\subsection{Oscillateur harmonique amorti}
+comment prendre en compte cet amortissement \\
+Prise en compte d'une force supplémentaire : force de frottement fluide $\vec{F}_{frott}=-\alpha \vec{v} = -\alpha \dot{x} \vec{e}_x$ \\
+équation différentielle : $\ddot{x}+\frac{\omega_0}{Q} \dot{x} +{\omega_0}^{2} x = 0$, $\omega_0=\sqrt{\frac{2k}{m}}$ \\
+ facteur de qualité $Q=\frac{m \omega_0}{\alpha}$\\
+ résolution avec exponentielle complexe, racines de l'équation caractéristique... \\
+ $x(t)=x_0 \exp{-\frac{\omega_0}{2Q}t} \cos{\omega_0 t + \varphi} $ \\
+ On voit le rôle du facteur de qualité dans les oscillations \\
+
+\subsection{Amplitude des oscillations} 
+pendule simple \\
+comportement similaire \\
+mesure période : amplitude faible vs amplitude forte \\
+1 seconde d'écart, il y a une influence : surprenant, différent d'avant \\
+Etude : résolution avec l'énergie \\
+approximation $\sin{\theta} \approx \theta $ \\
+$\ddot{\theta} + {\omega_0}^2 \theta =0$  avec $\omega_0=\sqrt{\frac{g}{l}}$ \\
+isochronisme des oscillations en théorie, ne dépend pas de l'amplitude : bizarre $\rightarrow$ un autre modèle \\
+en fait l'énergie potentielle est en cosinus, on l'a approché par une parabole \\
+allure $\frac{T}{T_0}=f(\theta_0)$ (parle pas de la formule de Borda) \\
+portrait de phase : n'est plus circulaire, va être en forme d'ellipse \\
+perte d'isochronisme des oscillations \\
+approximation non vérifiée \\
+
+
+\section*{Conclusion}
+diapason, oscillateur à quartz fonctionne pareil, oscillation des bras, s'atténue très peu dans le temps \\
+mais facteur de qualité : $10^6$ \\
+pour améliorer : utilisation de résistance négative avec condensateur \\
+
+\begin{remarques} \begin{itemize} 
+\item trop de temps sur les bases, mettre masse-ressort en prérequis
+\item faire l'amortissement en slide, vite fait, détails en TD
+\item écrire tous les messages importants, conditions initiales, notation x point...
+\item oscillations autour d'un puits de potentiel : très important, le faire plus tôt
+\item niveau : début de première année de CPGE
+\item si un seul ressort : cette manipulation ne marche pas, il faut contraindre la masse mais ne pas rajouter de frottement, donc on choisit de mettre deux ressorts, ne change rien, juste valeur de la pulsation, position d'équilibre ne va pas être au milieu
+\item il faut dire que l'oscillateur harmonique est un modèle idéal, mathématique, c'est définit par cette équation différentielle
+\item vraie pour bcp de situations physiques : au voisinage d'une position d'équilibre (dérivée énergie potentielle est nulle), ne marche pas lors de bifurcation fourche par exemple (dérivée seconde de l'énergie potentielle est nulle)
+\item énergie potentielle élastique : énergie stockée dans le ressort
+\item OH à plusieurs dimensions ?
+\item équipartition vraie tout le temps ? fait référence à quelque chose ? $\frac{1}{2} k_B T$ par degré de liberté
+\item utilité du portrait de phase : comprendre les échanges énergétiques dans le système
+\item espace des phases : formalisme hamiltonien, espace des coordonnées $q_i$ et impulsions $p_i$
+\item pourquoi frottement fluide ? air visqueux sous la masse, dans le coussin d'air, si nombre de Reynolds faible dans cette couche
+\item autres dissipations possibles : ressort, ou liaisons, potence... 
+\item trajectoire dans le cas d'un frottement solide ? ce ne serait plus sinusoïdal
+\item formule de Borda ; si on veut aller plus loin ? terme suivant en ${theta_0}^4$ car parité (symétrie pendule)
+\item contre-exemple parité : force newtonienne autour de sa position d'équilibre
+\item différents régimes : apériodique, pseudo-périodique
+\item résumé : conservation énergie mécanique, équipartition de l'énergie, isochronisme des oscillations, oscillations sinusoïdales perpétuelles
+\item quantique : énergie quantifiée $E_n=(n+\frac{1}{2}) \hbar \omega_0$, valeurs propres du hamiltonien, énergie minimale $\frac{\hbar \omega_0}{2}$
+\item classique : varie entre 0 et énergie mécanique
+\end{itemize} \end{remarques}

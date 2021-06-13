@@ -1,0 +1,631 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{2}
+  \sortlist[entry]{nty/global/}
+    \entry{Berkeley_ondes}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e48fe8a1156a17a8c72fa5a1f1987ef2}{%
+           family={Frank},
+           familyi={F\bibinitperiod},
+           given={Crawford},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{e48fe8a1156a17a8c72fa5a1f1987ef2}
+      \strng{fullhash}{e48fe8a1156a17a8c72fa5a1f1987ef2}
+      \strng{authornamehash}{e48fe8a1156a17a8c72fa5a1f1987ef2}
+      \strng{authorfullhash}{e48fe8a1156a17a8c72fa5a1f1987ef2}
+      \field{sortinit}{F}
+      \field{sortinithash}{276475738cc058478c1677046f857703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Berkeley : cours de physique. 3. Ondes}
+    \endentry
+    \entry{Thibierge_ondes}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c57121ba701cac02fd1614015b9d60db}{%
+           family={Thibierge},
+           familyi={T\bibinitperiod},
+           given={Etienne},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{c57121ba701cac02fd1614015b9d60db}
+      \strng{fullhash}{c57121ba701cac02fd1614015b9d60db}
+      \strng{authornamehash}{c57121ba701cac02fd1614015b9d60db}
+      \strng{authorfullhash}{c57121ba701cac02fd1614015b9d60db}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ondes}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{3}
+  \sortlist[entry]{nty/global/}
+    \entry{Neveu_moteurs}{book}{}
+      \name{author}{1}{}{%
+        {{hash=14cc11bb91fdae6cbcfba4836071dce6}{%
+           family={Neveu},
+           familyi={N\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{14cc11bb91fdae6cbcfba4836071dce6}
+      \strng{fullhash}{14cc11bb91fdae6cbcfba4836071dce6}
+      \strng{authornamehash}{14cc11bb91fdae6cbcfba4836071dce6}
+      \strng{authorfullhash}{14cc11bb91fdae6cbcfba4836071dce6}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Moteurs et transformateurs electriques}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{33}
+  \sortlist[entry]{nty/global/}
+    \entry{Diu_thermo}{book}{}
+      \name{author}{1}{}{%
+        {{hash=1b77617a288ff1ae2dd6c4b93ff6c21c}{%
+           family={Diu},
+           familyi={D\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hermann}%
+      }
+      \strng{namehash}{1b77617a288ff1ae2dd6c4b93ff6c21c}
+      \strng{fullhash}{1b77617a288ff1ae2dd6c4b93ff6c21c}
+      \strng{authornamehash}{1b77617a288ff1ae2dd6c4b93ff6c21c}
+      \strng{authorfullhash}{1b77617a288ff1ae2dd6c4b93ff6c21c}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Thermodynamique}
+      \field{year}{2007}
+    \endentry
+    \entry{ToutenunPC_2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=78459239c508d98f5ac4fa59692fb97a}{%
+           family={Sanz},
+           familyi={S\bibinitperiod},
+           given={Marie-Noelle},
+           giveni={M\bibinithyphendelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dunod}%
+      }
+      \strng{namehash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{fullhash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{authornamehash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{authorfullhash}{78459239c508d98f5ac4fa59692fb97a}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Physique tout-en-un PC-PC*}
+      \field{year}{2016}
+    \endentry
+    \entry{biophysique}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a3d8c3de52651d557a4e5bae1ab07f73}{%
+           family={Urbach},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{a3d8c3de52651d557a4e5bae1ab07f73}
+      \strng{fullhash}{a3d8c3de52651d557a4e5bae1ab07f73}
+      \strng{authornamehash}{a3d8c3de52651d557a4e5bae1ab07f73}
+      \strng{authorfullhash}{a3d8c3de52651d557a4e5bae1ab07f73}
+      \field{sortinit}{U}
+      \field{sortinithash}{1554584e7f69d2b4fe0a645e73d50194}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Approche physique du transport de la matière dans les milieux biologiques}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{56}
+  \sortlist[entry]{nty/global/}
+    \entry{guyon_hydrodynamique}{book}{}
+      \name{author}{1}{}{%
+        {{hash=6dbcb98501cddcf92b9857819e467911}{%
+           family={Guyon},
+           familyi={G\bibinitperiod},
+           given={Etienne},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{6dbcb98501cddcf92b9857819e467911}
+      \strng{fullhash}{6dbcb98501cddcf92b9857819e467911}
+      \strng{authornamehash}{6dbcb98501cddcf92b9857819e467911}
+      \strng{authorfullhash}{6dbcb98501cddcf92b9857819e467911}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Hydrodynamique physique}
+    \endentry
+    \entry{olivier_ondes}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e712146191e498f5b42a3bd34ae31c5d}{%
+           family={Olivier},
+           familyi={O\bibinitperiod},
+           given={Stéphane},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e712146191e498f5b42a3bd34ae31c5d}
+      \strng{fullhash}{e712146191e498f5b42a3bd34ae31c5d}
+      \strng{authornamehash}{e712146191e498f5b42a3bd34ae31c5d}
+      \strng{authorfullhash}{e712146191e498f5b42a3bd34ae31c5d}
+      \field{sortinit}{O}
+      \field{sortinithash}{f5d80ef71b5b58852663ecfd775b175a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Physique des ondes : électromagnétisme et optique : (2e année PC, PC-PSI, PSI)}
+    \endentry
+    \entry{ToutenunMP_2004}{book}{}
+      \name{author}{1}{}{%
+        {{hash=78459239c508d98f5ac4fa59692fb97a}{%
+           family={Sanz},
+           familyi={S\bibinitperiod},
+           given={Marie-Noelle},
+           giveni={M\bibinithyphendelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dunod}%
+      }
+      \strng{namehash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{fullhash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{authornamehash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{authorfullhash}{78459239c508d98f5ac4fa59692fb97a}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Physique tout-en-un MP-MP*}
+      \field{year}{2004}
+    \endentry
+    \entry{ToutenunPC_2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=78459239c508d98f5ac4fa59692fb97a}{%
+           family={Sanz},
+           familyi={S\bibinitperiod},
+           given={Marie-Noelle},
+           giveni={M\bibinithyphendelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dunod}%
+      }
+      \strng{namehash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{fullhash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{authornamehash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{authorfullhash}{78459239c508d98f5ac4fa59692fb97a}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Physique tout-en-un PC-PC*}
+      \field{year}{2016}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{57}
+  \sortlist[entry]{nty/global/}
+    \entry{ClaireLi}{online}{}
+      \name{author}{1}{}{%
+        {{hash=aa43690296e03185b058e2495af9f07e}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Claire},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa43690296e03185b058e2495af9f07e}
+      \strng{fullhash}{aa43690296e03185b058e2495af9f07e}
+      \strng{authornamehash}{aa43690296e03185b058e2495af9f07e}
+      \strng{authorfullhash}{aa43690296e03185b058e2495af9f07e}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Étude des propriétés de champ proche et de champ lointain des nano-antennes infrarouges}
+      \verb{url}
+      \verb https://hal.archives-ouvertes.fr/tel-02493813/document
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{62}
+  \sortlist[entry]{nty/global/}
+    \entry{Hprepa_electronique}{book}{}
+      \list{publisher}{1}{%
+        {Hprepa}%
+      }
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeltitlesource}{title}
+      \field{title}{Electronique}
+    \endentry
+    \entry{Neveu_elec}{book}{}
+      \name{author}{1}{}{%
+        {{hash=14cc11bb91fdae6cbcfba4836071dce6}{%
+           family={Neveu},
+           familyi={N\bibinitperiod},
+           given={Jeremy},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{14cc11bb91fdae6cbcfba4836071dce6}
+      \strng{fullhash}{14cc11bb91fdae6cbcfba4836071dce6}
+      \strng{authornamehash}{14cc11bb91fdae6cbcfba4836071dce6}
+      \strng{authorfullhash}{14cc11bb91fdae6cbcfba4836071dce6}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Electrocinetique}
+    \endentry
+    \entry{TecDoc_PSI}{book}{}
+      \list{publisher}{1}{%
+        {Tec et Doc}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeltitlesource}{title}
+      \field{title}{Physique PSI}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{64}
+  \sortlist[entry]{nty/global/}
+    \entry{cohard_confocale}{online}{}
+      \name{author}{1}{}{%
+        {{hash=2628a68268318cbcb189e483015c4dd1}{%
+           family={Cochard},
+           familyi={C\bibinitperiod},
+           given={Philippe},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{2628a68268318cbcb189e483015c4dd1}
+      \strng{fullhash}{2628a68268318cbcb189e483015c4dd1}
+      \strng{authornamehash}{2628a68268318cbcb189e483015c4dd1}
+      \strng{authorfullhash}{2628a68268318cbcb189e483015c4dd1}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La microscopie confocale}
+      \verb{url}
+      \verb https://trigenotoul.com/wp-content/uploads/2014/09/Confocal-cours.pdf
+      \endverb
+    \endentry
+    \entry{Optique_houard}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fe65af9301ce0a7587c443eb0a9dfa83}{%
+           family={Houard},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe65af9301ce0a7587c443eb0a9dfa83}
+      \strng{fullhash}{fe65af9301ce0a7587c443eb0a9dfa83}
+      \strng{authornamehash}{fe65af9301ce0a7587c443eb0a9dfa83}
+      \strng{authorfullhash}{fe65af9301ce0a7587c443eb0a9dfa83}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Optique, une approche experimentale et pratique}
+    \endentry
+    \entry{constrastephase_kastler}{book}{}
+      \name{author}{1}{}{%
+        {{hash=14d9581342db14c0a054dbfd59e43a61}{%
+           family={Kastler},
+           familyi={K\bibinitperiod},
+           given={Alfred},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{14d9581342db14c0a054dbfd59e43a61}
+      \strng{fullhash}{14d9581342db14c0a054dbfd59e43a61}
+      \strng{authornamehash}{14d9581342db14c0a054dbfd59e43a61}
+      \strng{authorfullhash}{14d9581342db14c0a054dbfd59e43a61}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{La technique du contraste de phase, BUP 367-369}
+    \endentry
+    \entry{phasecontrast_microscopy}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8578028c232738d0f19018ae5229f657}{%
+           family={Murphy},
+           familyi={M\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{8578028c232738d0f19018ae5229f657}
+      \strng{fullhash}{8578028c232738d0f19018ae5229f657}
+      \strng{authornamehash}{8578028c232738d0f19018ae5229f657}
+      \strng{authorfullhash}{8578028c232738d0f19018ae5229f657}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to phase contrastmicroscopy}
+      \verb{url}
+      \verb https://www.microscopyu.com/techniques/phase-contrast/introduction-to-phase-contrast-microscopy
+      \endverb
+    \endentry
+    \entry{fluorescence_microscopy}{online}{}
+      \name{author}{1}{}{%
+        {{hash=bae160a9f9d663db715988617ee7b17a}{%
+           family={Spring},
+           familyi={S\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{bae160a9f9d663db715988617ee7b17a}
+      \strng{fullhash}{bae160a9f9d663db715988617ee7b17a}
+      \strng{authornamehash}{bae160a9f9d663db715988617ee7b17a}
+      \strng{authorfullhash}{bae160a9f9d663db715988617ee7b17a}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to fluorescence microscopy}
+      \verb{url}
+      \verb https://www.microscopyu.com/techniques/fluorescence/introduction-to-fluorescence-microscopy
+      \endverb
+    \endentry
+    \entry{app_miscroscope}{online}{}
+      \name{author}{1}{}{%
+        {{hash=fba9c5598506b1aebb909261f88562f7}{%
+           family={Tulloue},
+           familyi={T\bibinitperiod},
+           given={Genevieve},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{fba9c5598506b1aebb909261f88562f7}
+      \strng{fullhash}{fba9c5598506b1aebb909261f88562f7}
+      \strng{authornamehash}{fba9c5598506b1aebb909261f88562f7}
+      \strng{authorfullhash}{fba9c5598506b1aebb909261f88562f7}
+      \field{sortinit}{T}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Figure animée d'un microscope}
+      \verb{url}
+      \verb https://www.sciences.univ-nantes.fr/sites/genevieve_tulloue/optiqueGeo/instruments/microscope.php?typanim=Javascript
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{70}
+  \sortlist[entry]{nty/global/}
+    \entry{laser_dangoisse}{book}{}
+      \name{author}{1}{}{%
+        {{hash=cbca2f5057748535a621c84d8d518208}{%
+           family={Dangoisse},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{cbca2f5057748535a621c84d8d518208}
+      \strng{fullhash}{cbca2f5057748535a621c84d8d518208}
+      \strng{authornamehash}{cbca2f5057748535a621c84d8d518208}
+      \strng{authorfullhash}{cbca2f5057748535a621c84d8d518208}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lasers, cours et exercices corriges}
+    \endentry
+    \entry{Optique_houard}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fe65af9301ce0a7587c443eb0a9dfa83}{%
+           family={Houard},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe65af9301ce0a7587c443eb0a9dfa83}
+      \strng{fullhash}{fe65af9301ce0a7587c443eb0a9dfa83}
+      \strng{authornamehash}{fe65af9301ce0a7587c443eb0a9dfa83}
+      \strng{authorfullhash}{fe65af9301ce0a7587c443eb0a9dfa83}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Optique, une approche experimentale et pratique}
+    \endentry
+    \entry{ILM_Faroux}{book}{}
+      \name{author}{1}{}{%
+        {{hash=41cf61eaf29af382bf7004a3872260a3}{%
+           family={JP\bibnamedelima Faroux},
+           familyi={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           given={B\bibnamedelima Cagnac},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{41cf61eaf29af382bf7004a3872260a3}
+      \strng{fullhash}{41cf61eaf29af382bf7004a3872260a3}
+      \strng{authornamehash}{41cf61eaf29af382bf7004a3872260a3}
+      \strng{authorfullhash}{41cf61eaf29af382bf7004a3872260a3}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lasers : interaction lumere-atomes}
+    \endentry
+    \entry{ToutenunPC_2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=78459239c508d98f5ac4fa59692fb97a}{%
+           family={Sanz},
+           familyi={S\bibinitperiod},
+           given={Marie-Noelle},
+           giveni={M\bibinithyphendelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dunod}%
+      }
+      \strng{namehash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{fullhash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{authornamehash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{authorfullhash}{78459239c508d98f5ac4fa59692fb97a}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Physique tout-en-un PC-PC*}
+      \field{year}{2016}
+    \endentry
+    \entry{Optique_sextant}{book}{}
+      \name{author}{1}{}{%
+        {{hash=032bc0bfecaf4f96c7af4e29a6c05b07}{%
+           family={Sextant},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{032bc0bfecaf4f96c7af4e29a6c05b07}
+      \strng{fullhash}{032bc0bfecaf4f96c7af4e29a6c05b07}
+      \strng{authornamehash}{032bc0bfecaf4f96c7af4e29a6c05b07}
+      \strng{authorfullhash}{032bc0bfecaf4f96c7af4e29a6c05b07}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Optique experimentale}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{71}
+  \sortlist[entry]{nty/global/}
+    \entry{Optique_hecht}{book}{}
+      \name{author}{1}{}{%
+        {{hash=64c234d6b797dfe2b38fe2eb3d847c24}{%
+           family={Hecht},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{64c234d6b797dfe2b38fe2eb3d847c24}
+      \strng{fullhash}{64c234d6b797dfe2b38fe2eb3d847c24}
+      \strng{authornamehash}{64c234d6b797dfe2b38fe2eb3d847c24}
+      \strng{authorfullhash}{64c234d6b797dfe2b38fe2eb3d847c24}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Optique}
+    \endentry
+    \entry{Optique_houard}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fe65af9301ce0a7587c443eb0a9dfa83}{%
+           family={Houard},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{fe65af9301ce0a7587c443eb0a9dfa83}
+      \strng{fullhash}{fe65af9301ce0a7587c443eb0a9dfa83}
+      \strng{authornamehash}{fe65af9301ce0a7587c443eb0a9dfa83}
+      \strng{authorfullhash}{fe65af9301ce0a7587c443eb0a9dfa83}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Optique, une approche experimentale et pratique}
+    \endentry
+    \entry{Optique_perez}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0db7e7a347aaa68a26218df2a01c99c6}{%
+           family={Perez},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0db7e7a347aaa68a26218df2a01c99c6}
+      \strng{fullhash}{0db7e7a347aaa68a26218df2a01c99c6}
+      \strng{authornamehash}{0db7e7a347aaa68a26218df2a01c99c6}
+      \strng{authorfullhash}{0db7e7a347aaa68a26218df2a01c99c6}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Optique : fondements et applications}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{74}
+  \sortlist[entry]{nty/global/}
+    \entry{hecht}{book}{}
+      \name{author}{1}{}{%
+        {{hash=64c234d6b797dfe2b38fe2eb3d847c24}{%
+           family={Hecht},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{64c234d6b797dfe2b38fe2eb3d847c24}
+      \strng{fullhash}{64c234d6b797dfe2b38fe2eb3d847c24}
+      \strng{authornamehash}{64c234d6b797dfe2b38fe2eb3d847c24}
+      \strng{authorfullhash}{64c234d6b797dfe2b38fe2eb3d847c24}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Optique}
+    \endentry
+    \entry{huard_pola}{book}{}
+      \name{author}{1}{}{%
+        {{hash=94467a5356fec91aff70a0f8b7128142}{%
+           family={Huard},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{94467a5356fec91aff70a0f8b7128142}
+      \strng{fullhash}{94467a5356fec91aff70a0f8b7128142}
+      \strng{authornamehash}{94467a5356fec91aff70a0f8b7128142}
+      \strng{authorfullhash}{94467a5356fec91aff70a0f8b7128142}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Polarisation}
+    \endentry
+    \entry{ToutenunPC_2016}{book}{}
+      \name{author}{1}{}{%
+        {{hash=78459239c508d98f5ac4fa59692fb97a}{%
+           family={Sanz},
+           familyi={S\bibinitperiod},
+           given={Marie-Noelle},
+           giveni={M\bibinithyphendelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Dunod}%
+      }
+      \strng{namehash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{fullhash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{authornamehash}{78459239c508d98f5ac4fa59692fb97a}
+      \strng{authorfullhash}{78459239c508d98f5ac4fa59692fb97a}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Physique tout-en-un PC-PC*}
+      \field{year}{2016}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

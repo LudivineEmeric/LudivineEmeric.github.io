@@ -1,0 +1,92 @@
+\Chapter{Conversions d'énergie}
+
+\nivpre{CPGE}{
+ \begin{itemize}
+  \item premier et deuxième principes de la thermodynamique
+   \item lois de Faraday et de Lenz
+   \item action d'un champ magnétique sur un moment magnétique
+ \end{itemize}
+}
+
+\lemessage{Il n'y a pas de source d'énergie brute dans la nature (genre l'hélium c'est génial youhou, en fait non), il n'y a que des conversions et transports, et puis des pertes... beaucoup de pertes... partout des pertes !}
+
+\biblio{}
+
+\section*{Introduction}
+L'énergie est une grandeur définie comme "se conservant" \\
+différentes formes, on en veut sous différentes formes, comment passer d'un à l'autre ? \\ 
+Comment peut-on l'utiliser ?  \\
+Sa consommation permet de faire fonctionner tous les outils de la vie \\
+électrique, thermique, mécanique, chimique... \\
+ on va s'intéresser à la chaîne majoritaire de production d'électricité en France : combustion $\rightarrow$ énergie thermique $\rightarrow$ ???  $\rightarrow$ énergie mécanique $\rightarrow$  ???  $\rightarrow$ énergie électrique \\
+ on va voir ce que sont ces ???
+\marginpar{réf. \cite{Neveu_moteurs}}
+
+\section{Conversion de l'énergie thermique en énergie électrique}
+\subsection{Rappels de thermodynamique}
+1er principe, variation d'énergie interne : travail et transfert thermique \\
+moteur thermique permet de passer d'une forme à l'autre \\
+2e principe, variation d'entropie : entropie échangée et entropie créée \\
+
+\subsection{Moteurs thermiques}
+système qui transforme Q en W \\
+exemple du moteur de Stirling \\
+source chaude, source froide \\
+Transformations cycliques : $\Delta S=0$, $\Delta U=0$ \\
+
+\subsection{Rendement}
+$Q_f<0$ \\
+$\eta = \frac{-W}{Q_c}$  \\
+%$\eta <= 1-\frac{T_f}{T_c}$ : égalité pour rendement de Carnot, $41%$ en théorie ici mais plutôt $0.5%$ en pratique \\
+
+\subsection{Machines thermiques réelles}
+Pas réversibles : il peut y avoir des frottements et échauffement de la source froide \\
+Moteur à explosion \\
+Moteur diesel : animation avec admission, compression, combustion, échappement \\
+\href{https://youtu.be/CyIz7AfiF04}{Vidéo Youtube moteur} \\
+\href{https://youtu.be/DKF5dKo_r_Y}{ou cette vidéo} \\
+\href{https://www.youtube.com/watch?v=aqfzJDOQl7M}{ou celle-ci} \\
+transition : chaîne énergétique, on a vu comment faire thermique vers mécanique, on a de l'énergie mécanique là, on veut de l'énergie électrique
+
+\section{Conversion de l'énergie mécanique en énergie électrique}
+\subsection{Principe d'un alternateur}
+expérience avec une bobine Leybold, une barre de fer doux, un aimant tourne au milieu \\ 
+quand ça tourne, on a création d'un champ électrique \\
+flux du champ magnétique, fem \\
+loi de Lenz : champ $\vec{B}'(t)$ créé s'oppose à la rotation des aimants \\
+un couple résistif apparaît : $\vec{\Gamma}=vec{M} \wedge vec{B'}$ \\
+
+\subsection{Moteur synchrone}
+$\vec{\Gamma}=M B \sin \theta \vec{u_z}$ \\
+B : champ tournant à $\Omega$ \\
+M : rotor à $\omega$ \\
+initialement $\theta(0)=\alpha$ \\
+$\theta (t)=\left( \Omega -\omega \right) t + \alpha $ \\
+$\vec{\Gamma} (t)= M B \sin \left( (\Omega-\omega)t+\alpha \right)$ \\
+moyenne nulle si les fréquences sont différentes \\
+si $\Omega=\omega$, non nul... courbe caractéristique de $\Gamma=f(\alpha)$  \\
+cas alternateur \\
+cas moteur : on regarde la branche moteur ($\Gamma >0$), on identifie laquelle est pente est stable ou instable \\
+pente positive : stable, pente négative : instable
+car si $\Gamma_r$ augmente, alors $\omega$ diminue, donc $\alpha$ augmente
+
+\section*{Conclusion}
+Chaîne énergétique totale \\
+TD : sources de pertes au sein d'un alternateur \\
+énergie géothermique, solaire \\
+
+
+\begin{remarques} \begin{itemize} 
+\item fonction d'état : définie à l'équilibre, dépend des variables d'état 
+\item on peut parler de variables d'état primitives (V,N,U) (une fonction d'état ne dépend pas que de ça) mais pas en CPGE
+\item définition énergie interne : ensemble des énergies cinétiques et potentielles microscopiques, définies par statistique
+\item échange de matière entre systèmes, que devient l'entropie ? 
+\item source chaude : modèle du thermostat
+\item réversibilité n'est pas souhaitable car puissance tend vers 0
+\item moteur diesel : pourquoi plusieurs cylindres ? permet d'améliorer régularité, éviter les acoups
+\item on peut faire rentrer le combustible dans le phase d'admission
+\item alternateur 
+\item vraie centrale : on chauffe de l'eau, s'évapore, pression sur turbines, met en rotation l'arbre de l'alternateur (rotor)
+\item préciser Stirling : 2 monothermes + 2 adiabatiques
+\item autre plan possible : fusion dans soleil, effet photovoltaïque
+\end{itemize} \end{remarques}

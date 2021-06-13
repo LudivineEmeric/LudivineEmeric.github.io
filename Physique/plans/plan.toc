@@ -1,0 +1,313 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {french}
+\contentsline {chapter}{\numberline {1}Symétries}{6}{chapter.1}
+\contentsline {section}{\numberline {1}Principe de symétrie}{6}{section.1.1}
+\contentsline {subsection}{\numberline {1.1}Qu'est-ce qu'on entend par symétrie}{6}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.2}Principe de Curie}{6}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.3}Brisure de symétrie}{7}{subsection.1.1.3}
+\contentsline {section}{\numberline {2}Symétries et lois de conservation}{7}{section.1.2}
+\contentsline {subsection}{\numberline {2.1}Conservation de l'impulsion}{7}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {2.2}Théorème de Noether}{7}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {2.3}Conservation de l'énergie}{7}{subsection.1.2.3}
+\contentsline {section}{\numberline {3}Autres invariances}{7}{section.1.3}
+\contentsline {subsection}{\numberline {3.1}Invariance par rapport au choix de coordonnées}{7}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {3.2}Invariance du choix des unités}{7}{subsection.1.3.2}
+\contentsline {chapter}{\numberline {2}Adaptation d'impédance}{9}{chapter.2}
+\contentsline {section}{\numberline {1}Câble coaxial : réflexion sur une impédance terminale}{9}{section.2.1}
+\contentsline {subsection}{\numberline {1.1}Rappel}{9}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {1.2}Réflexion sur une résistance terminale}{9}{subsection.2.1.2}
+\contentsline {section}{\numberline {2}Application pratique en acoustique : l'échographie}{9}{section.2.2}
+\contentsline {subsection}{\numberline {2.1}Interface air-muscle}{9}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2}Gel entre les deux}{10}{subsection.2.2.2}
+\contentsline {chapter}{\numberline {3}Conversions d'énergie}{11}{chapter.3}
+\contentsline {section}{\numberline {1}Conversion de l'énergie thermique en énergie électrique}{11}{section.3.1}
+\contentsline {subsection}{\numberline {1.1}Rappels de thermodynamique}{11}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {1.2}Moteurs thermiques}{11}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {1.3}Rendement}{12}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {1.4}Machines thermiques réelles}{12}{subsection.3.1.4}
+\contentsline {section}{\numberline {2}Conversion de l'énergie mécanique en énergie électrique}{12}{section.3.2}
+\contentsline {subsection}{\numberline {2.1}Principe d'un alternateur}{12}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {2.2}Moteur synchrone}{12}{subsection.3.2.2}
+\contentsline {chapter}{\numberline {4}Systèmes couplés}{14}{chapter.4}
+\contentsline {chapter}{\numberline {5}Régimes transitoires}{15}{chapter.5}
+\contentsline {chapter}{\numberline {6}Principes variationnels. Applications.}{16}{chapter.6}
+\contentsline {chapter}{\numberline {7}Gravitation}{17}{chapter.7}
+\contentsline {section}{\numberline {1}Interaction gravitationnelle}{17}{section.7.1}
+\contentsline {subsection}{\numberline {1.1}Force gravitationnelle}{17}{subsection.7.1.1}
+\contentsline {subsection}{\numberline {1.2}Champ de pesanteur}{17}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {1.3}Énergie potentielle gravitationnelle}{17}{subsection.7.1.3}
+\contentsline {section}{\numberline {2}Mouvement dans un potentiel gravitationnel}{17}{section.7.2}
+\contentsline {subsection}{\numberline {2.1}Position du problème}{17}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {2.2}Potentiel effectif}{17}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {2.3}Lois de Kepler}{17}{subsection.7.2.3}
+\contentsline {section}{\numberline {3}Application : vitesse de libération}{17}{section.7.3}
+\contentsline {chapter}{\numberline {8}Lois de conservation en dynamique}{19}{chapter.8}
+\contentsline {chapter}{\numberline {9}Contact entre deux solides. Frottement}{20}{chapter.9}
+\contentsline {chapter}{\numberline {10}Dynamique en référentiel non galiléen}{21}{chapter.10}
+\contentsline {chapter}{\numberline {11}Précession et approximation gyroscopique}{22}{chapter.11}
+\contentsline {chapter}{\numberline {12}Cinématique relativiste}{23}{chapter.12}
+\contentsline {chapter}{\numberline {13}Dynamique relativiste}{24}{chapter.13}
+\contentsline {chapter}{\numberline {14}Collisions et lois de conservation en mécanique classique et relativiste}{25}{chapter.14}
+\contentsline {section}{\numberline {1}Conservation de l'énergie}{25}{section.14.1}
+\contentsline {section}{\numberline {2}Conservation du quadrivecteur énergie-impulsion}{25}{section.14.2}
+\contentsline {section}{\numberline {3}Collision inélastique : boson de Higgs}{25}{section.14.3}
+\contentsline {chapter}{\numberline {15}Manifestations du caractère non galiléen d'un référentiel}{27}{chapter.15}
+\contentsline {section}{\numberline {1}Description des référentiels usuels}{27}{section.15.1}
+\contentsline {subsection}{\numberline {1.1}Principe d'inertie}{27}{subsection.15.1.1}
+\contentsline {subsection}{\numberline {1.2}Changement de référentiel et forces d'inertie}{27}{subsection.15.1.2}
+\contentsline {subsection}{\numberline {1.3}Une définition relative}{27}{subsection.15.1.3}
+\contentsline {section}{\numberline {2}Application au référentiel terrestre}{27}{section.15.2}
+\contentsline {subsection}{\numberline {2.1}Force d'inertie d'entraînement}{27}{subsection.15.2.1}
+\contentsline {subsection}{\numberline {2.2}Force d'inertie de Coriolis}{27}{subsection.15.2.2}
+\contentsline {chapter}{\numberline {16}Mouvements dans un champ de force centrale}{29}{chapter.16}
+\contentsline {chapter}{\numberline {17}Mouvements classique et relativiste d'une particule chargée}{30}{chapter.17}
+\contentsline {chapter}{\numberline {18}Notion de viscosité d'un fluide. Écoulements visqueux}{31}{chapter.18}
+\contentsline {chapter}{\numberline {19}Modèle de l'écoulement parfait d'un fluide}{32}{chapter.19}
+\contentsline {chapter}{\numberline {20}Phénomènes interfaciaux impliquant des fluides}{33}{chapter.20}
+\contentsline {chapter}{\numberline {21}Régimes d'écoulements en mécanique des fluides}{34}{chapter.21}
+\contentsline {chapter}{\numberline {22}Bilans macroscopiques en mécanique des fluides}{35}{chapter.22}
+\contentsline {chapter}{\numberline {23}Physique du vol : portance et traînée}{36}{chapter.23}
+\contentsline {section}{\numberline {1}Force de traînée}{36}{section.23.1}
+\contentsline {subsection}{\numberline {1.1}Origines de la traînée}{36}{subsection.23.1.1}
+\contentsline {subsection}{\numberline {1.2}Formule de Stokes}{37}{subsection.23.1.2}
+\contentsline {subsection}{\numberline {1.3}Chute brutale du $C_x$}{37}{subsection.23.1.3}
+\contentsline {section}{\numberline {2}Force de portance}{37}{section.23.2}
+\contentsline {subsection}{\numberline {2.1}Portance d'une aile d'avion}{37}{subsection.23.2.1}
+\contentsline {subsection}{\numberline {2.2}Décrochage}{37}{subsection.23.2.2}
+\contentsline {subsection}{\numberline {2.3}Finesse aérodynamique}{37}{subsection.23.2.3}
+\contentsline {chapter}{\numberline {24}Premier principe de la thermodynamique}{39}{chapter.24}
+\contentsline {chapter}{\numberline {25}Transitions de phase}{40}{chapter.25}
+\contentsline {section}{\numberline {1}Transition liquide-vapeur d'un corps pur}{40}{section.25.1}
+\contentsline {subsection}{\numberline {1.1}Approche phénoménologique}{40}{subsection.25.1.1}
+\contentsline {subsection}{\numberline {1.2}Étude thermodynamique}{40}{subsection.25.1.2}
+\contentsline {subsection}{\numberline {1.3}Discontinuité et relation de Clapeyron}{40}{subsection.25.1.3}
+\contentsline {subsection}{\numberline {1.4}Mise en œuvre expérimentale}{40}{subsection.25.1.4}
+\contentsline {section}{\numberline {2}Transition paramagnétique-ferromagnétique}{40}{section.25.2}
+\contentsline {subsection}{\numberline {2.1}Modélisation}{40}{subsection.25.2.1}
+\contentsline {subsection}{\numberline {2.2}Minimisation du potentiel}{40}{subsection.25.2.2}
+\contentsline {chapter}{\numberline {26}Phénomènes de transport}{42}{chapter.26}
+\contentsline {chapter}{\numberline {27}Gaz réels, gaz parfait}{43}{chapter.27}
+\contentsline {chapter}{\numberline {28}Évolution et condition d'équilibre d'un système thermodynamique fermé.}{44}{chapter.28}
+\contentsline {chapter}{\numberline {29}Machines thermiques}{45}{chapter.29}
+\contentsline {chapter}{\numberline {30}Facteur de Boltzmann}{46}{chapter.30}
+\contentsline {chapter}{\numberline {31}Rayonnement d'équilibre thermique. Corps noir}{47}{chapter.31}
+\contentsline {chapter}{\numberline {32}Entropie en physique statistique et thermodynamique}{48}{chapter.32}
+\contentsline {chapter}{\numberline {33}Phénomènes de diffusion}{49}{chapter.33}
+\contentsline {section}{\numberline {1}Diffusion de particules}{49}{section.33.1}
+\contentsline {subsection}{\numberline {1.2}Loi de Fick}{49}{subsection.33.1.2}
+\contentsline {subsection}{\numberline {1.3}Équation de diffusion}{49}{subsection.33.1.3}
+\contentsline {subsection}{\numberline {1.4}Analogie thermique}{49}{subsection.33.1.4}
+\contentsline {subsection}{\numberline {1.5}Diffusion thermique}{50}{subsection.33.1.5}
+\contentsline {subsubsection}{\nonumberline Densité de courant thermique et équation de conservation}{50}{section*.52}
+\contentsline {subsubsection}{\nonumberline Loi de Fourier et équation de diffusion}{50}{section*.53}
+\contentsline {subsubsection}{\nonumberline En régime permanent : détermination de la conductivité thermique}{50}{section*.54}
+\contentsline {section}{\numberline {2}Aspects microscopiques}{50}{section.33.2}
+\contentsline {section}{\numberline {3}Applications}{50}{section.33.3}
+\contentsline {chapter}{\numberline {34}Principes de la thermodynamique en écoulement. Applications}{52}{chapter.34}
+\contentsline {chapter}{\numberline {35}Bilans thermiques. Illustrations}{53}{chapter.35}
+\contentsline {chapter}{\numberline {36}Phénomènes irréversibles en thermodynamique}{54}{chapter.36}
+\contentsline {chapter}{\numberline {37}Étude thermodynamique du corps pur diphasé}{55}{chapter.37}
+\contentsline {chapter}{\numberline {38}Conversion de puissance électromécanique.}{56}{chapter.38}
+\contentsline {chapter}{\numberline {39}Induction électromagnétique}{57}{chapter.39}
+\contentsline {chapter}{\numberline {40}Propriétés macroscopiques des corps ferromagnétiques}{58}{chapter.40}
+\contentsline {chapter}{\numberline {41}Mécanismes de la conduction électrique dans les solides}{59}{chapter.41}
+\contentsline {chapter}{\numberline {42}Phénomènes de résonance dans différents domaines de la physique}{60}{chapter.42}
+\contentsline {chapter}{\numberline {43}Oscillateurs ; portraits de phase et non-linéarités}{61}{chapter.43}
+\contentsline {chapter}{\numberline {44}Rayonnement dipolaire électrique}{62}{chapter.44}
+\contentsline {chapter}{\numberline {45}Le champ magnétique}{63}{chapter.45}
+\contentsline {section}{\numberline {1}Propriétés du champ magnétique}{63}{section.45.1}
+\contentsline {subsection}{\numberline {1.1}Sources}{63}{subsection.45.1.1}
+\contentsline {subsection}{\numberline {1.2}Flux du champ $\mathaccentV {vec}17E{B}$}{63}{subsection.45.1.2}
+\contentsline {subsection}{\numberline {1.3}Circulation du champ $\mathaccentV {vec}17E{B}$}{63}{subsection.45.1.3}
+\contentsline {section}{\numberline {2}Expression du champ magnétique}{64}{section.45.2}
+\contentsline {subsection}{\numberline {2.1}Symétries}{64}{subsection.45.2.1}
+\contentsline {subsection}{\numberline {2.2}Invariances}{64}{subsection.45.2.2}
+\contentsline {subsection}{\numberline {2.3}Application à un câble cylindrique}{64}{subsection.45.2.3}
+\contentsline {section}{\numberline {3}Induction électromagnétique}{64}{section.45.3}
+\contentsline {chapter}{\numberline {46}Champ électrique}{65}{chapter.46}
+\contentsline {chapter}{\numberline {47}Conduction électrique en présence de champs magnétiques}{66}{chapter.47}
+\contentsline {chapter}{\numberline {48}Rétroaction et oscillations}{67}{chapter.48}
+\contentsline {chapter}{\numberline {49}Traitement d'un signal. Étude spectrale}{68}{chapter.49}
+\contentsline {chapter}{\numberline {50}Ondes progressives, ondes stationnaires}{69}{chapter.50}
+\contentsline {chapter}{\numberline {51}Ondes acoustiques}{70}{chapter.51}
+\contentsline {chapter}{\numberline {52}Propagation guidée des ondes}{71}{chapter.52}
+\contentsline {chapter}{\numberline {53}Dispersion et absorption}{72}{chapter.53}
+\contentsline {chapter}{\numberline {54}Milieux diélectriques}{73}{chapter.54}
+\contentsline {chapter}{\numberline {55}Phénomènes ondulatoires à une interface en électromagnétisme}{74}{chapter.55}
+\contentsline {chapter}{\numberline {56}Équations d'onde}{75}{chapter.56}
+\contentsline {section}{\numberline {1}Milieu non dispersif}{75}{section.56.1}
+\contentsline {subsection}{\numberline {1.1}Câble coaxial}{75}{subsection.56.1.1}
+\contentsline {subsection}{\numberline {1.2}Solutions de l'équation}{75}{subsection.56.1.2}
+\contentsline {subsection}{\numberline {1.3}Équation de dispersion}{76}{subsection.56.1.3}
+\contentsline {section}{\numberline {2}Milieu dispersif}{76}{section.56.2}
+\contentsline {subsection}{\numberline {2.1}Équation de Klein-Gordon}{76}{subsection.56.2.1}
+\contentsline {subsection}{\numberline {2.2}Relation de dispersion}{76}{subsection.56.2.2}
+\contentsline {chapter}{\numberline {57}Ondes évanescentes}{78}{chapter.57}
+\contentsline {section}{\numberline {1}Ondes évanescentes électromagnétiques}{78}{section.57.1}
+\contentsline {subsection}{\numberline {1.1}Définition et mise en évidence expérimentale}{78}{subsection.57.1.1}
+\contentsline {subsection}{\numberline {1.2}Explication théorique : dépasser les lois de Snell-Descartes}{78}{subsection.57.1.2}
+\contentsline {section}{\numberline {2}Ondes évanescentes au sens large}{78}{section.57.2}
+\contentsline {subsection}{\numberline {2.1}Élargir à d'autres domaines de la physique}{78}{subsection.57.2.1}
+\contentsline {subsection}{\numberline {2.2}Ondes évanescentes de matière : effet tunnel}{79}{subsection.57.2.2}
+\contentsline {section}{\numberline {3}Applications}{79}{section.57.3}
+\contentsline {subsection}{\numberline {3.1}Microscopie en champ proche}{79}{subsection.57.3.1}
+\contentsline {subsection}{\numberline {3.2}Microscope à effet tunnel}{79}{subsection.57.3.2}
+\contentsline {subsection}{\numberline {3.3}Détection d'empreintes digitales}{79}{subsection.57.3.3}
+\contentsline {chapter}{\numberline {58}Oscillateur harmonique : approximation et limitations}{80}{chapter.58}
+\contentsline {section}{\numberline {1}Étude d'un oscillateur harmonique}{80}{section.58.1}
+\contentsline {subsection}{\numberline {1.1}Observations}{80}{subsection.58.1.1}
+\contentsline {subsection}{\numberline {1.2}Mise en équation}{80}{subsection.58.1.2}
+\contentsline {subsection}{\numberline {1.3}Énergie}{80}{subsection.58.1.3}
+\contentsline {section}{\numberline {2}Approximations et limitations}{81}{section.58.2}
+\contentsline {subsection}{\numberline {2.1}Oscillateur harmonique amorti}{81}{subsection.58.2.1}
+\contentsline {subsection}{\numberline {2.2}Amplitude des oscillations}{81}{subsection.58.2.2}
+\contentsline {chapter}{\numberline {59}Filtrage linéaire}{83}{chapter.59}
+\contentsline {chapter}{\numberline {60}Effet Doppler et applications}{84}{chapter.60}
+\contentsline {section}{\numberline {1}Effet Doppler classique}{84}{section.60.1}
+\contentsline {subsection}{\numberline {1.1}Source mobile, récepteur fixe}{84}{subsection.60.1.1}
+\contentsline {subsection}{\numberline {1.2}Source fixe, récepteur mobile}{85}{subsection.60.1.2}
+\contentsline {subsection}{\numberline {1.3}Formulation générale}{85}{subsection.60.1.3}
+\contentsline {section}{\numberline {2}Effet Doppler relativiste}{85}{section.60.2}
+\contentsline {section}{\numberline {3}Applications}{85}{section.60.3}
+\contentsline {subsection}{\numberline {3.1}Mesure de vitesse : radar}{85}{subsection.60.3.1}
+\contentsline {subsection}{\numberline {3.2}Élargissement spectral}{85}{subsection.60.3.2}
+\contentsline {chapter}{\numberline {61}Modulation, démodulation}{87}{chapter.61}
+\contentsline {chapter}{\numberline {62}Régulation et asservissement}{88}{chapter.62}
+\contentsline {section}{\numberline {1}Commande d'un système linéaire et nécessité d'une rétroaction}{88}{section.62.1}
+\contentsline {section}{\numberline {2}Application : asservissement en vitesse d'un moteur}{88}{section.62.2}
+\contentsline {subsection}{\numberline {2.1}Principe du moteur}{89}{subsection.62.2.1}
+\contentsline {subsection}{\numberline {2.2}Stabilité}{89}{subsection.62.2.2}
+\contentsline {subsection}{\numberline {2.3}Précision}{89}{subsection.62.2.3}
+\contentsline {subsection}{\numberline {2.4}Rapidité}{89}{subsection.62.2.4}
+\contentsline {section}{\numberline {3}Correction}{89}{section.62.3}
+\contentsline {chapter}{\numberline {63}Inductance : de l'électromagnétisme à l'électrocinétique}{91}{chapter.63}
+\contentsline {chapter}{\numberline {64}Microscopies optiques}{92}{chapter.64}
+\contentsline {section}{\numberline {1}Microscope classique}{92}{section.64.1}
+\contentsline {subsection}{\numberline {1.1}Dispositif}{92}{subsection.64.1.1}
+\contentsline {subsection}{\numberline {1.2}Grossissement commercial}{92}{subsection.64.1.2}
+\contentsline {subsection}{\numberline {1.3}Limites}{92}{subsection.64.1.3}
+\contentsline {section}{\numberline {2}Microscopie par contraste de phase}{92}{section.64.2}
+\contentsline {section}{\numberline {3}Microscope confocale laser à fluorescence}{93}{section.64.3}
+\contentsline {chapter}{\numberline {65}Interférences à deux ondes en optique}{94}{chapter.65}
+\contentsline {chapter}{\numberline {66}Interférométrie à division d'amplitude}{95}{chapter.66}
+\contentsline {chapter}{\numberline {67}Diffraction de Fraunhofer}{96}{chapter.67}
+\contentsline {chapter}{\numberline {68}Diffraction par des structures périodiques}{97}{chapter.68}
+\contentsline {chapter}{\numberline {69}Absorption et émission de la lumière}{98}{chapter.69}
+\contentsline {chapter}{\numberline {70}Laser}{99}{chapter.70}
+\contentsline {section}{\numberline {1}Principe de fonctionnement}{99}{section.70.1}
+\contentsline {subsection}{\numberline {1.1}Rappel oscillateur électronique}{99}{subsection.70.1.1}
+\contentsline {subsection}{\numberline {1.2}Principe du Laser}{99}{subsection.70.1.2}
+\contentsline {section}{\numberline {2}Amplification par émission stimulée}{99}{section.70.2}
+\contentsline {subsection}{\numberline {2.1}Système à deux niveaux}{99}{subsection.70.2.1}
+\contentsline {subsection}{\numberline {2.2}Coefficients d’Einstein. Emission stimulée}{99}{subsection.70.2.2}
+\contentsline {subsection}{\numberline {2.3}Pompage}{100}{subsection.70.2.3}
+\contentsline {section}{\numberline {3}Cavité résonnante}{100}{section.70.3}
+\contentsline {subsection}{\numberline {3.1}Cavité Fabry Pérot}{100}{subsection.70.3.1}
+\contentsline {subsection}{\numberline {3.2}Application : le LIDAR}{100}{subsection.70.3.2}
+\contentsline {subsection}{\numberline {3.3}Le Laser stationnaire}{100}{subsection.70.3.3}
+\contentsline {chapter}{\numberline {71}Instruments d'optique (hors microscopes)}{101}{chapter.71}
+\contentsline {section}{\numberline {1}Appareil photo à focale fixe}{101}{section.71.1}
+\contentsline {subsection}{\numberline {1.1}Rappels sur les grandissements}{101}{subsection.71.1.1}
+\contentsline {subsection}{\numberline {1.2}Tirage de l'objectif et mise au point}{101}{subsection.71.1.2}
+\contentsline {subsection}{\numberline {1.3}Profondeur et distance hyperfocale}{101}{subsection.71.1.3}
+\contentsline {section}{\numberline {2}Lunette astronomique}{101}{section.71.2}
+\contentsline {subsection}{\numberline {2.1}Caractéristiques}{101}{subsection.71.2.1}
+\contentsline {subsection}{\numberline {2.2}Cercle oculaire}{101}{subsection.71.2.2}
+\contentsline {section}{\numberline {3}Limitations}{102}{section.71.3}
+\contentsline {subsection}{\numberline {3.1}Limite de résolution}{102}{subsection.71.3.1}
+\contentsline {subsection}{\numberline {3.2}Aberrations}{102}{subsection.71.3.2}
+\contentsline {chapter}{\numberline {72}Spectroscopies}{103}{chapter.72}
+\contentsline {section}{\numberline {1}Étude d'un spectre discret d'émission}{103}{section.72.1}
+\contentsline {subsection}{\numberline {1.1}Réseau}{103}{subsection.72.1.1}
+\contentsline {subsection}{\numberline {1.2}Dispositif expérimental}{103}{subsection.72.1.2}
+\contentsline {subsection}{\numberline {1.3}Limites}{103}{subsection.72.1.3}
+\contentsline {section}{\numberline {2}Spectroscopie interférentielle}{103}{section.72.2}
+\contentsline {subsection}{\numberline {2.1}Michelson}{103}{subsection.72.2.1}
+\contentsline {subsection}{\numberline {2.2}Finesse d'une raie}{103}{subsection.72.2.2}
+\contentsline {subsection}{\numberline {2.3}Spectroscopie par transformée de Fourier}{103}{subsection.72.2.3}
+\contentsline {section}{\numberline {3}Spectroscopie d'un spectre d'absorption}{103}{section.72.3}
+\contentsline {subsection}{\numberline {3.1}Phénomène mis en jeu}{103}{subsection.72.3.1}
+\contentsline {subsection}{\numberline {3.2}Spectres d'absorption}{103}{subsection.72.3.2}
+\contentsline {chapter}{\numberline {73}Lois de l'optique géométrique}{104}{chapter.73}
+\contentsline {section}{\numberline {1}Réflexion et réfraction}{104}{section.73.1}
+\contentsline {subsection}{\numberline {1.1}Lois de Snell-Descartes}{104}{subsection.73.1.1}
+\contentsline {subsection}{\numberline {1.2}Principe de Fermat}{104}{subsection.73.1.2}
+\contentsline {section}{\numberline {2}Systèmes optiques}{104}{section.73.2}
+\contentsline {subsection}{\numberline {2.1}Conditions de Gauss}{104}{subsection.73.2.1}
+\contentsline {subsection}{\numberline {2.2}Lentilles}{104}{subsection.73.2.2}
+\contentsline {section}{\numberline {3}Applications}{104}{section.73.3}
+\contentsline {subsection}{\numberline {3.1}Prisme}{104}{subsection.73.3.1}
+\contentsline {subsection}{\numberline {3.2}Mirages}{104}{subsection.73.3.2}
+\contentsline {subsection}{\numberline {3.3}Arc-en-ciel}{104}{subsection.73.3.3}
+\contentsline {chapter}{\numberline {74}Production et analyse de la lumière polarisée}{105}{chapter.74}
+\contentsline {section}{\numberline {1}Production de lumière polarisée}{105}{section.74.1}
+\contentsline {subsection}{\numberline {1.1}Etats de polarisation de la lumière}{105}{subsection.74.1.1}
+\contentsline {subsection}{\numberline {1.2}Production de lumière polarisée par absorption}{105}{subsection.74.1.2}
+\contentsline {subsection}{\numberline {1.3}Production par diffusion}{105}{subsection.74.1.3}
+\contentsline {subsection}{\numberline {1.4}Production par réflexion vitreuse}{106}{subsection.74.1.4}
+\contentsline {section}{\numberline {2}Analyse d'une lumière polarisée}{106}{section.74.2}
+\contentsline {subsection}{\numberline {2.1}Biréfringence}{106}{subsection.74.2.1}
+\contentsline {subsection}{\numberline {2.2}Action d'une lame quart d'onde}{106}{subsection.74.2.2}
+\contentsline {chapter}{\numberline {78}Optique de Fourier}{111}{chapter.78}
+\contentsline {chapter}{\numberline {76}Photographie}{109}{chapter.76}
+\contentsline {chapter}{\numberline {77}Mesures interférométriques}{110}{chapter.77}
+\contentsline {chapter}{\numberline {78}Optique de Fourier}{111}{chapter.78}
+\contentsline {chapter}{\numberline {79}Systèmes quantiques à deux niveaux}{112}{chapter.79}
+\contentsline {chapter}{\numberline {80}Aspects ondulatoires de la matière}{113}{chapter.80}
+\contentsline {chapter}{\numberline {81}Confinement d'une particule et quantification de l'énergie}{114}{chapter.81}
+\contentsline {chapter}{\numberline {82}Effet tunnel}{115}{chapter.82}
+\contentsline {chapter}{\numberline {83}Modèles de l'atome}{116}{chapter.83}
+\contentsline {section}{\numberline {1}Approches antérieures}{116}{section.83.1}
+\contentsline {subsection}{\numberline {1.1}De l'Antiquité aux modèles semi-classiques}{116}{subsection.83.1.1}
+\contentsline {subsection}{\numberline {1.2}Modèle de Bohr}{116}{subsection.83.1.2}
+\contentsline {subsection}{\numberline {1.3}Conséquences et limites}{116}{subsection.83.1.3}
+\contentsline {section}{\numberline {2}Modèle actuel}{116}{section.83.2}
+\contentsline {subsection}{\numberline {2.1}Équation de Schrödinger}{116}{subsection.83.2.1}
+\contentsline {subsection}{\numberline {2.2}Introduction aux nombres quantiques}{116}{subsection.83.2.2}
+\contentsline {subsection}{\numberline {2.3}Spin et structure de l'atome}{116}{subsection.83.2.3}
+\contentsline {chapter}{\numberline {84}Expérience de Stern-Gerlach et conséquences}{117}{chapter.84}
+\contentsline {section}{\numberline {1}Modèle de Bohr}{117}{section.84.1}
+\contentsline {subsection}{\numberline {1.1}Rapport gyromagnétique}{117}{subsection.84.1.1}
+\contentsline {subsection}{\numberline {1.2}Précession de Larmor}{117}{subsection.84.1.2}
+\contentsline {section}{\numberline {2}Expérience de Stern et Gerlach}{117}{section.84.2}
+\contentsline {subsection}{\numberline {2.1}Description}{117}{subsection.84.2.1}
+\contentsline {subsection}{\numberline {2.2}Résultats}{118}{subsection.84.2.2}
+\contentsline {section}{\numberline {3}Conséquences}{118}{section.84.3}
+\contentsline {subsection}{\numberline {3.1}Quantification du moment cinétique}{118}{subsection.84.3.1}
+\contentsline {subsection}{\numberline {3.2}Retour sur l'expérience}{118}{subsection.84.3.2}
+\contentsline {subsection}{\numberline {3.3}Application à l'effet Zeeman}{118}{subsection.84.3.3}
+\contentsline {chapter}{\numberline {85}Equation de Schrödinger et applications}{120}{chapter.85}
+\contentsline {section}{\numberline {1}État et évolution d'une particule}{120}{section.85.1}
+\contentsline {subsection}{\numberline {1.1}Fonction d'onde}{120}{subsection.85.1.1}
+\contentsline {subsection}{\numberline {1.2}Équation de Schrödinger}{120}{subsection.85.1.2}
+\contentsline {section}{\numberline {2}Solutions}{121}{section.85.2}
+\contentsline {subsection}{\numberline {2.1}Cas libre}{121}{subsection.85.2.1}
+\contentsline {subsection}{\numberline {2.2}Cas d'une barrière de potentiel}{121}{subsection.85.2.2}
+\contentsline {section}{\numberline {3}Applications}{121}{section.85.3}
+\contentsline {subsection}{\numberline {3.1}Effet tunnel}{121}{subsection.85.3.1}
+\contentsline {chapter}{\numberline {86}Structure et stabilité des noyaux atomiques}{123}{chapter.86}
+\contentsline {chapter}{\numberline {87}Capacités thermiques : description, interprétations microscopiques}{124}{chapter.87}
+\contentsline {chapter}{\numberline {88}Approche microscopique du paramagnétisme et du ferromagnétisme}{125}{chapter.88}
+\contentsline {chapter}{\numberline {89}Application des semiconducteurs à l'électronique et/ou l'optique}{126}{chapter.89}
+\contentsline {section}{\numberline {1}Propriétés des semiconducteurs}{126}{section.89.1}
+\contentsline {subsection}{\numberline {1.1}Bande de valence, bande de conduction et énergie de gap}{126}{subsection.89.1.1}
+\contentsline {subsection}{\numberline {1.2}Dopage}{126}{subsection.89.1.2}
+\contentsline {section}{\numberline {2}La jonction PN}{127}{section.89.2}
+\contentsline {subsection}{\numberline {2.1}Présentation du phénomène}{127}{subsection.89.2.1}
+\contentsline {subsection}{\numberline {2.2}Polarisation de la jonction}{127}{subsection.89.2.2}
+\contentsline {section}{\numberline {3}Applications}{127}{section.89.3}
+\contentsline {subsection}{\numberline {3.1}Application à la photodétection de lumière : la photodiode}{127}{subsection.89.3.1}
+\contentsline {subsection}{\numberline {3.2}Application à l'émission de lumière : la DEL (ou LED)}{127}{subsection.89.3.2}
+\contentsline {subsection}{\numberline {3.3}Application à l'électronique : le redresseur}{127}{subsection.89.3.3}
+\contentsline {chapter}{\numberline {90}Fermions, bosons, illustrations}{129}{chapter.90}
+\contentsline {section}{\numberline {1}Formalisme des statistiques quantiques}{129}{section.90.1}
+\contentsline {subsection}{\numberline {1.1}Rappel : résultat semi-classique}{129}{subsection.90.1.1}
+\contentsline {subsection}{\numberline {1.2}Formalisme des statistiques quantiques}{129}{subsection.90.1.2}
+\contentsline {subsection}{\numberline {1.3}Factorisation de la fonction de partition (ensemble grand-canonique)}{129}{subsection.90.1.3}
+\contentsline {section}{\numberline {2}Distribution de Fermi-Dirac et Bose-Einstein}{130}{section.90.2}
+\contentsline {subsection}{\numberline {2.1}Stat de Bose-Einstein}{130}{subsection.90.2.1}
+\contentsline {subsection}{\numberline {2.2}Stat de Fermi-Dirac}{130}{subsection.90.2.2}
+\contentsline {section}{\numberline {3}Applications}{130}{section.90.3}
+\contentsline {subsection}{\numberline {3.1}Rayonnement du corps noir}{130}{subsection.90.3.1}
+\contentsline {subsection}{\numberline {3.2}Comportement des électrons libres d'un métal}{130}{subsection.90.3.2}

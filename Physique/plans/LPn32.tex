@@ -1,0 +1,95 @@
+\Chapter{Expérience de Stern-Gerlach et conséquences}
+
+\nivpre{L3}{
+ \begin{itemize}
+  \item théorie quantique du moment cinétique
+ \end{itemize}
+}
+
+\lemessage{.}
+
+\biblio{}
+
+\section*{Introduction}
+passsage classique à quantique au 20ème siècle \\
+c'est une expérience décisive dans cette théorie : aspect quantique des atomes et découverte du spin de l'électron  \\
+à l'époque on partait du modèle de Bohr \\
+
+%\marginpar{réf. \cite{}}
+
+\section{Modèle de Bohr}
+\subsection{Rapport gyromagnétique}
+électron en trajectoire circulaire autour d'un noyau \\
+boucle de courant $I$, calcul du moment magnétique (analogie spire de courant) : $\vec{M}=I \vec{S}=...=\frac{erv}{2} \vec{u_z} $\\
+moment cinétique : $\vec{L}=\vec{r} \wedge \vec{p}=-m_e r v \vec{u_z}$ \\
+$\vec{M}=\gamma \vec{L}$ \\
+Rapport gyromagnétique : $\gamma=-\frac{e}{2 m_e}$ \\
+
+\subsection{Précession de Larmor}
+Champ magnétique $\vec{B_\mathrm{ext}}$ \\
+Théorème du moment cinétique, système d'équations couplées x, y, on complexifie (x partie réelle et y partie imaginaire) \\
+$L=L_x + i L_y $ donc 
+$\frac{\ddroit L}{\ddroit t}=-i \gamma B_0 L$ \\
+$L=L_0 exp(-i \gamma B_0 t)$ \\
+pulsation de Larmor : $\omega_L = -\gamma B_0$ \\
+schéma précession $\vec{L}$ autour de l'axe du champ magnétique \\
+
+\section{Expérience de Stern et Gerlach}
+\subsection{Description}
+Schéma expériences \\
+récipient chauffé (four) permet d'injecter atomes d'argent \\
+une fente permet d'avoir seulement ceux dans une direction ($x$) \\
+aimant Nord/Sud de longueur $l$, situé à distance $D$ de l'écran \\
+particule vont être déviées par champ magnétique \\
+champ B inhomogène suivant $z$ grâce à structure de l'aimant (sud pointe, nord trou) \\
+si B était constant, le champ serait nul car $\vec{F}=\left( \vec{M} \vec{\mathrm{grad}} \right) \vec{B}$ \\
+invariance par translation  \\
+$F_z=M_z \frac{\partial B_z}{\partial z}$ \\
+PFD dans l'entrefer : $x=v t$ ... \\
+$Z=D \tan \alpha =\frac{D l}{ m_{Ag} v^2} M_z \frac{\partial B_z}{\partial z} $   \\
+
+\href{https://youtu.be/8wS4IOzAhFA}{Video Youtube quantique Stern et Gerlach}
+
+\subsection{Résultats}
+$B_0=0$ : gaussienne centrée en $z=0$ \\
+$B_0 \neq 0$ : prévision classique réponse plate, constante, pas d'angle favorisé, fonction porte \\
+$B_0 \neq 0$ : observations 2 taches symétriques par rapport à $z=0$ \\
+
+
+\section{Conséquences}
+\subsection{Quantification du moment cinétique} 
+moment cinétique total, moment cinétique orbital, moment cinétique intrinsèque \\
+$\vec{J}=\vec{L}+\vec{S}$ \\
+il existe un un vecteur $\vec{u_z}$ tel que $J_z$ et $\vec{J}^2$ commutent \\
+propriétés des moments cinétiques, rappel nombres quantiques, $j$ et $m$ sont entiers ou demi-entiers, certaines transitions autorisées \\
+
+\subsection{Retour sur l'expérience}
+deux taches : 2 valeurs de $m$ possibles \\
+$J=\frac{1}{2}$ et $m=\pm \frac{1}{2}$ \\
+$M=\pm\mu_B$ où $\mu_B=\frac{e \hbar}{2 m_e}=9.274 \, 10^{-24} A.m^2 $ : quantum de moment magnétique \\
+facteur de Landé : $g_L=\frac{\mu_B}{\gamma \hbar}=2$ \\
+
+\subsection{Application à l'effet Zeeman}
+$E_p (m)=-\vec{M} . \vec{B}=g\mu_B m B_0 $ \\
+$E=E_0+ g \mu_B m B_0$ \\
+$2J+1$ états \\
+sous-niveaux Zeeman $\Delta E = E(m+1) - E(m)= g \mu_B B_0 \propto B_0$\\
+applications : résonance magnétique nucléaire (RMN) du proton dans IRM \\
+
+\section*{Conclusion}
+On attribue structure probabiliste de l'atome et existence du spin \\
+
+
+\begin{remarques} \begin{itemize} 
+\item meilleur plan : commencer par les résultats de l'expérience ?
+\item avoir les dates en tête
+\item pourquoi atomes d'argent ? car gros atome à symétrie de révolution + 1 électron célibataire non apparié
+\item pas un électron seul car effet cyclotron domine 
+\item attention aux lignes de champ dans électro-aimant
+\item électron : facteur de Landé 2 et spin demi-entier 
+\item théorie classique : continuum ; vs quantification spatiale du moment cinétique (voir schéma poly Jean Hare)
+\item parler de Pauli et des matrices
+\item paquet d'onde s'élargit par diffraction ; en vrai c'est en forme d'œil car atomes passent pas les côtés mais y a bien deux directions privilégiées
+\item axe de quantification arbitraire car symétrie cylindrique ; quand on applique le champ $\vec{B}$, on brise la symétrie
+\item voir vidéo Youtube MIT ? 
+\end{itemize} \end{remarques}

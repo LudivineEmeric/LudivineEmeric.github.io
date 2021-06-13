@@ -1,0 +1,78 @@
+\Chapter{Régulation et asservissement}
+
+\nivpre{L3}{
+ \begin{itemize}
+\item principe des moteurs à courant continu
+\item transformée de Laplace 
+\item fonction de transfert
+\item amplificateur opérationnel
+\item diagramme de Bode
+ \end{itemize}
+}
+
+\lemessage{.}
+
+\biblio{}
+
+\section*{Introduction}
+on fait en permanence de la rétroaction dans la vie de tous les jours (quand on conduit...) \\
+régulation : suivre une consigne constante quand il y a des perturbations \\
+asservissement : suivre une consigne qui peut changer \\
+
+\marginpar{réf. \cite{Hprepa_electronique},\cite{Neveu_elec},\cite{TecDoc_PSI}}
+
+\section{Commande d'un système linéaire et nécessité d'une rétroaction}
+\subsection{}
+\subsection{}
+
+$H_{FTBO}=\frac{retour}{entrée}=A \beta $ \\
+$H_{FTBF}=\frac{sortie}{entrée}=\frac{A}{1+H_{FTBO}}$ \\
+
+\section{Application : asservissement en vitesse d'un moteur}
+expérience : boîtier moteur à courant continu MCC\\
+rétroaction : capteur dynamo \\
+fonctions de transfert \\
+2 entrées \\
+
+\subsection{Principe du moteur}
+\subsection{Stabilité}
+critères \\
+\subsection{Précision}
+théorème de la valeur finale \\
+\subsection{Rapidité}
+
+AO : conservation du produit gain-bande (inutile ici) \\
+
+
+\section{Correction}
+proportionnel, intégrale, dérivateur \\
+
+
+\section*{Conclusion}
+oscillateur : pas d'entrée, addition \\
+systèmes biologiques \\
+laser \\
+
+\begin{remarques} \begin{itemize} 
+\item ces notions ne sont pas au programme de CPGE
+\item faire pas beaucoup d'exemples mais très bien les faire, aller chercher les vieux livres de prépas PSI
+\item ne pas hésiter à faire des choses simples, pas faire trop de formules
+\item régulation : cas particulier de l'asservissement
+\item commande en position vs commande en vitesse
+\item 
+\item thermostat, perturbation : ouvrir une fenêtre en hiver par exemple
+\item qu'est ce qui fournit l'énergie ? toutes les alimentations extérieures au circuit (AO, tension de commande)
+\item électronique de puissance vs électronique de signal : puissance à l'amplificateur, tout le reste signal ; électronique de signal est plus précise que électronique de puissance
+\item si alimentation moteur pas précise, pas grave car relatif, si pb dynamo (moins précise par exemple), plus grave car pas la même valeur mesurée, seuils pas les mêmes, moins bien régulé ?
+\item on se fout de la précision dans chaîne directe, pas dans la rétroaction
+\item exemple perceuse, pas besoin asservi car s'auto-régule ? on cherche une vitesse de rotation constante, donc régulation, automatisé pour avec une adaptation plus rapide, et plus de précision
+\item soustracteur : AO en amplificateur non-inverseur
+\item comment transformée de Laplace peut s'intégrer dans le programme CPGE ? pourquoi choix L3 ? car il faut transformée de Laplace
+\item fonctions de transfert, hypothèses : système linéaire et vrai à tout amplitude
+\item pas différent de fonction de transfert avec AO, même résultat mais schéma-bloc : modèle pour simplifier 
+\item qu'apporte la conservation du produit gain-bande ? voir que la bande-passante s'agrandit si on a une rétroaction ; et impact sur la rapidité
+\item en réalité, alimentation limite la tension de l'oscillateur à pont de Wien, saturation
+\item notion de stabilité : dans la pratique, on a toujours des choses qui vont limiter
+\item marges pour la sécurité : marges de gain et de phase ; voir avec diagramme de Bode (gain inférieur à 1 en phase)
+\item étude du moteur en précision : commande en position ou vitesse ? 
+\end{itemize} \end{remarques}

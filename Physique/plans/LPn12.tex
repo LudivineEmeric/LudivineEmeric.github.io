@@ -1,0 +1,96 @@
+\Chapter{Physique du vol : portance et traînée}
+
+\nivpre{CPGE}{
+ \begin{itemize}
+  \item mécanique des fluides
+ \end{itemize}
+}
+
+\lemessage{.}
+
+\biblio{}
+
+\section*{Introduction}
+On a vu montgolfière en statique des fluides \\
+avion : vol, trainée et portance, comment ça marche \\
+diapo : photo d'un avion Mirage \\
+(toute la leçon est en régime écoulement stationnaire) \\
+%\marginpar{réf. \cite{ToutenunPC_2016},\cite{hecht},\cite{huard_pola}}
+
+\section{Force de traînée}
+\subsection{Origines de la traînée}
+Trainée est colinéaire et dans le sens de l'écoulement \\
+\subsubsection*{Traînée de frottement} 
+nombre de Reynolds $\mathrm{Re} \approx \frac{LU}{\nu}$ \\
+écoulement libre loin d'une aile d'avion \\
+écoulement visqueux proche (couche limite) caractérisé par épaisseur $\delta \approx \sqrt{\nu \tau} \approx \frac{L}{\sqrt{\mathrm{Re}}}$  \\
+temps caractéristique $\tau=\frac{L}{U}$\\
+
+\subsubsection*{Traînée de pression (ou traînée de forme)}
+rappeler Bernoulli \\
+définition du coefficient de traînée $\vec{F}_{tr}=-\frac{1}{2} \mu S U^2 C_x \left( \mathrm{Re} \right) \frac{\vec{U}}{U}$ \\
+diapo écoulement en fonction du nombre de Reynolds : profils d'écoulements autour d'un cylindre circulaire pour différents $\mathrm{Re}$, $C_x$ en fonction de $\mathrm{Re}$ \\
+forces de pression sont plus grandes là où attaque l'écoulement sur le cylindrique, plus faible en arrière : la résultante est vers l'arrière \\
+
+ce sont les origines de la traînée \\
+
+\subsection{Formule de Stokes}
+$\mathrm{Re} << 10$ où $C_x \approx \frac{24}{\mathrm{Re}}$ \\
+Force de traînée : expression \\
+cas d'une sphère : $\mathrm{Re}=\frac{\mu 2 R U}{\eta}$ \\
+Force de trainée, formule de Stokes : $\vec{F}_{tr}=-6\pi \eta R \vec{v}_{solide/fluide}$  ($\frac{24}{4}=6$)\\
+Rq : pour $\mathrm{Re}$ intermédiaire $10^3 - 10^5 $, $C_x$ est pratiquement constant, la fonction de traînée est quadratique en $U$ \\
+diapo : ordre de grandeur coefficients de traînée de différents objets 3D (coeff frontaux) \\
+
+\subsection{Chute brutale du $C_x$ }
+Au dessus d'un certain nombre de Reynolds (critique $\mathrm{Re_c}$), on a une chute du coefficient de traînée, c'est ce que l'on cherche en sport, fendre l'écoulement \\
+En dessous de cette valeur, la traînée est trop grande, la balle lancée va moins loin \\
+en augmentant la rugosité de la balle, on fait chuter le $\mathrm{Re_c}$ \\
+exemple : balle de golf, rainures balle de baseball \\
+
+
+\section{Force de portance}
+\subsection{Portance d'une aile d'avion}
+il existe plusieurs formes d'ailes d'avion, symétrique, asymétrique \\
+schéma : bord d'attaque, bord de fuite, corde, angle d'inclinaison \\
+portance est verticale dues aux différences de vitesses d'écoulement et donc différence de pression \\
+force totale : oblique car frottements \\
+diapo : coeff de traînée et de portance en fonction de l'angle d'inclinaison (portance, traînée et polaire d'un profil NACA 4412) \\
+angle de décrochage \\
+définition coefficient de portance : $\vec{F}_{pr}=\frac{1}{2} \mu S C_z U^2 \vec{n}$ \\
+\subsection{Décrochage}
+diapo : écoulement très peu décollé vs décrochage \\
+\href{https://www.youtube.com/watch?v=zwiMvBMVFMw}{vidéo youtube} illustrant décrochage \\
+expérience avec soufflerie et balance, on change l'inclinaison de l'aile : la balance va afficher un poids négatif si portance, maximale en valeur absolue si portance maximale, diminue si décrochage ; angle mesuré : $30^o$, dépend de la forme de l'aile \\
+
+\subsection{Finesse aérodynamique}
+$Finesse=\frac{C_z}{C_x}$ \\
+$Finesse=\tan \alpha = \frac{AG}{AB}$ (c'est l'angle que fait la force totale avec la verticale) \\
+
+
+\section*{Conclusion}
+on peut parler de traîner induite lorsque l'aile n'est pas infiniment longue \\
+la surpression en dessous rejoint la dépression au dessus \\
+on utilise des winglets pour initier les tourbillons (traînée de condensation) \\ 
+hélicoptères : faible vitesse, portance pas due aux mêmes phénomènes \\
+la portance se retrouve vers le haut car pales incurvées, création d'une surpression en bas, dépression en haut
+il y a aussi une traînée, cherche à diminuée \\
+vol stationnaire : pas de traînée de la carcasse de l'hélico, seulement les pales \\
+
+\begin{remarques} \begin{itemize} 
+\item les pâles d'une éolienne sont vrillées
+\item les pâles d'un hélicoptère : change d'incidence en court de course pour s'adapter, palonnier ; pale s'incurvent vers le haut par force centrifuge
+\item couche limite : conditions aux limites de non-glissement (donc accrochage)
+\item couche limite décolle au-delà d'un certain nb de Reynolds, l'écoulement va devenir turbulent, ce modèle n'est alors plus valable
+\item pourquoi $C_z$ est adimensionnée avec $\frac{1}{2} \mu S U^2$ , pression, Bernoulli, surpression $1/2 \mu U^2$, le coefficient $C_z$ traduit l'écart à pression Bernoulli ; Gustave Eiffel a fait des mesures de temps de chute, a travaillé sur des souffleries pour mesurer les coefficients de traînée (fun fact : il ne croyait pas au nombre de Reynolds ni au changement de référentiel, c'était un ingénieur)
+\item compressibilité du gaz est importante ? faut-il que l'air soit compressible pour voler ? empêche pas écoulement incompressible, sous l'eau ça marche, même proche la vitesse du son c'est négligeable ; ce qui compte c'est la différence de pression
+\item $C_x$ coefficient de traînée est similaire entre sphère est cylindrique, seules les asymptotes changent, un peu plus hautes
+\item on peut pas créer la portance à bas Reynolds 
+\item il faut mentionner Bernoulli dans cette leçon
+\item structure de l'aile : bord de fuite pointu pas nécessaire (avantage :  provoquer turbulences, intéressant pour traînée faible), bord d'attaque n'est pas nécessairement rond 
+\item mécanisme pression plus élevée en bas d'une aile qu'en haut : écartement des lignes de courant en dessous, rapprochement au dessus ; flux de quantité de mouvement vers le base
+\item surface considérée en portance : surface projetée (physique) ou surface totale à plat (utilisée par professionnels de l'aviation) 
+\item intérêt, limites de l'expérience : tube de Pitot peut montrer vitesse uniforme en sortie de soufflerie, jusqu'à un certain point, aile d'avion est de même taille que soufflerie donc pas homogène, et angle d'inclinaison fait que pas uniformément ; en pratique dans les souffleries : le diamètre doit être 10x supérieurs à la section de l'objet que l'on teste
+\item odg finesse : parapente 10, oiseau 10, ie 1m en horizontal descend de 10m
+\item les avions ne battent pas des ailes car trop d'effort, on ne comprend pas tout des écoulements, interactions compliquées, petits drones oui
+\end{itemize} \end{remarques}

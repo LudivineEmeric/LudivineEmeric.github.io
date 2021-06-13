@@ -1,0 +1,99 @@
+\Chapter{Application des semiconducteurs à l'électronique et/ou l'optique }
+
+\nivpre{Licence}{
+ \begin{itemize}
+  \item physique statistique : distribution de Fermi-Dirac
+   \item caractéristique d'une photodiode
+ \end{itemize}
+}
+
+\lemessage{Énormément utilisé dans les capteurs : on module la conduction pour faire plein de capteurs différents.}
+
+\biblio{}
+
+\section*{Introduction}
+plein d'applications, toute l'électronique qu'on utilise aujourd'hui \\
+
+%\marginpar{réf. \cite{ToutenunPC_2016},\cite{hecht},\cite{huard_pola}}
+
+\section{Propriétés des semiconducteurs}
+\subsection{Bande de valence, bande de conduction et énergie de gap}
+Structure de bande \\
+pour un semiconduteur énergie de gap inférieure à $5eV$ \\
+pour un isolant énergie de gap supérieure à $5eV$ \\
+A $T=0$, tous les électrons sont dans la bande de valence \\
+A $T>0$, certains électrons passent dans la bande de conduction \\
+densité de porteurs : $n_e$ électrons présents dans le BC, $n_h$ trous dans la BV \\
+en pratique $n_e=N_e e^{\left( \frac{E_g-E_c}{k_B T}\right)}$  et  $n_h=N_ h e^{\left( \frac{E_g-E_c}{k_B T}\right)}$ \\
+
+
+\subsection{Dopage}
+exemple : on part d'un silicium intrinsèque (4 électrons de valence) \\
+on remplace des atomes de silicium par des atomes d'arsenic (5 électrons de valence, très peu)  \\
+
+change énergie de Fermi \\
+dopé p : niveau de Fermi plus proche du haut de la bande de valence \\
+dopé n : niveau de Fermi plus proche du bas de la bande de conduction \\
+
+2 types de dopage : n $\rightarrow$ on ajoute des électrons, p $\rightarrow$ on ajoute des trous \\
+
+
+\section{La jonction PN}
+\subsection{Présentation du phénomène}
+accoller matériau dopé p et matériau dopé p \\
+les électrons s'équilibrent sur la zone à la limite des 2 \\
+vidéo Youtube : formation and properties of junction diode   \\
+zone de déplétion : il y a ni trou, ni électron $\rightarrow$ la circulation est bloquée \\
+appariation d'un champ dans la ZCE, ie différence de potentiel : $V_0 = E_F^N -E_F^P = \frac{k_B T}{e} \log{\frac{N_a N_d }{n_i^2}}$ \\
+dans un circuit, on va donc polariser la jonction \\
+
+\subsection{Polarisation de la jonction}
+on applique une différence de potentiel à la jonction PN \\
+on change donc la différence de potentiel : $V_0'=V_0-V_a$, supérieure ou inférieure à $V_0$ \\
+ caractéristique d'une diode \\
+ illustration expérimentale avec une photodiode en changeant la résistance \\
+
+\section{Applications}
+\subsection{Application à la photodétection de lumière : la photodiode}
+$V_a<0$ : polarisation en inverse \\
+comment ça marche ? \\
+on récupère les électrons "produits" du côté zone p \\
+caractéristique : un photon excite un électron : création paire électron/trou \\
+définition courant photonique \\
+
+\subsection{Application à l'émission de lumière : la DEL (ou LED)}
+$V_a>0$ : polarisation directe \\
+électrons injectés du côté zone n \\
+on peut faire des lasers \\
+vidéo fonctionnement \\
+
+\subsection{Application à l'électronique : le redresseur}
+signal sinusoïdal envoyé à une diode avec une résistance de protection \\
+lien avec signe diode, redressement \\
+
+\section*{Conclusion}
+on a présenté le cas le plus simple : jonction PN \\
+on peut aussi faire PNP et NPN : amplificateur de puissance  \\
+on peut faire thermistance car passage des électrons est régit par une distribution de Fermi-Dirac, résistance va dépendre de température \\
+présents partout : téléphones, caméra, ordinateur...\\
+
+\begin{remarques} \begin{itemize} 
+\item donner des ordres de grandeur de gap pour différents matériaux
+\item intérêt de la photodiode PIN : augmenter artificiellement la taille de la ZCE. Ainsi, la majorité des photons y est absorbée. De plus, cette région intrinsèque étant pure ($99.99 \%$ pour le silicium), la vitesse des porteurs y est significativement augmentée. En effet, ces derniers n’y subissent que très peu de collisions du fait de cette absence d’impureté
+\item bandes de valence, conduction et interdite : en physique des solides, on résout équation de Schrödinger, potentiel périodique du cristal ; la fonction d'onde d'un électron dans le cristal
+\item théorème de Bloch
+\item énergie en fonction du vecteur d'onde k 
+\item important à mettre : diagramme simplifique en fonction de k, paraboles
+\item gap direct/gap indirect
+\item pourquoi quand il y a des électrons dans bande de conduction il y a un courant électrique ? 
+\item pourquoi parabolique ? car écart à électron libre $\frac{\hbar^2 k^2 }{2m^* }$
+\item dissymétrie en fonction de k : 
+\item énergie de Fermi d'un conducteur, peuplement des niveaux d'énergie
+\item intrinsèque : non dopé ; utilisation : filtre optique (GaP), photorésistance (CdS), thermorésistance, sonde à effet Hall
+\item $E_g = \frac{h c}{\lambda_g} = \frac{ 1.24 \left[ eV \right] }{ \lambda \left[ \mu m \right] }$
+\item extrinsèque : dopé ; utilisation : transistor 
+\item caractéristique de la photodiode : exponentielle ; zone génératrice, photovoltaïque : photopile ; si balayée trop rapidement (?), on observe des effets capacitifs
+\item $V_0=0,7V$ pour le silicium
+\item faire un courant alternatif : deux diodes en parallèle sens opposés
+\item ordre de grandeur des températures de Fermi des métaux, conducteurs : $10^4 K$
+\end{itemize} \end{remarques}

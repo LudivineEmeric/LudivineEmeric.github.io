@@ -1,0 +1,74 @@
+\Chapter{Adaptation d'impédance}
+
+\nivpre{CPGE}{
+ \begin{itemize}
+  \item équation de d'Alembert
+   \item modélisation du câble coaxial
+   \item AO
+ \end{itemize}
+}
+
+\lemessage{Partout, c'est la vie.}
+
+\biblio{}
+
+\section*{Introduction}
+
+Permettre un transfert de puissance optimal \\
+Couche anti-reflet, cornets, cuivre (instrument), picots en salle insonorisée ou au plafond de salles... \\
+
+\marginpar{réf. \cite{Berkeley_ondes}, \cite{Thibierge_ondes}}
+
+Voir Berkeley, Landau et Feynman \\
+
+\section{Câble coaxial : réflexion sur une impédance terminale}
+\subsection{Rappel}
+équations des télégraphes sans pertes \\
+\subsection{Réflexion sur une résistance terminale}
+Résistance placée à la suite du câble \\
+Détermination des coefficients de réflexion en amplitude \\
+$R=Z_C$ : réflexion nulle, c'est ce qu'on appelle adaptation d'impédance \\
+intérêt du montage suiveur \\
+\section{Application pratique en acoustique : l'échographie}
+\subsection{Interface air-muscle}
+intensité réfléchie, intensité transmise \\
+$R=\left( \frac{Z_2 - Z_1}{Z_2 + Z_1} \right)^2 $ \\
+$T=4 \frac{Z_2 Z_1}{\left( Z_2 + Z_1\right)^2} $  \\
+$Z_\mathrm{air}=444 kg.m^2.s^{-1}$ et $Z_\mathrm{muscle}=1,7 . 10^6 kg.m^2.s^{-1}$ \\
+$T=10^{-3}$ très faible
+
+\subsection{Gel entre les deux}
+a priori, impédance du gel est entre les 2 \\
+Attention, le calcul est bizarre : ne pas se fier au td d'hydro \\
+en supposant qu'il n 'y a pas de réflexion :
+condition d'adaptation d'impédance $\rightarrow$ $\frac{Z_g-Z_a}{Z_g+Z_a}=\frac{Z_g-Z_m}{Z_g-Z_m} e^{-2 i k_g e}$ \\
+les impédances ne sont pas complexes car équation vraie que pour certains e \\
+
+conditions aux limites $\rightarrow$  $2 k_g e=2n\pi$ ou $(2n+1) \pi$, paire ou impaire $\rightarrow$ solution intéressante : impaire \\
+$Z_g=\sqrt{Z_a Z_m}$ \\
+$Z_g=2.7 .10^4 kg.m^{-2}.s^{-1}$
+
+\section*{Conclusion}
+maximiser intensité transmise \\
+
+\begin{remarques} \begin{itemize} 
+\item exo de l'échographie est schématique : en vrai ce n'est pas de l'air, c'est l'émetteur
+\item pourquoi il n'y a pas de réflexion dans l'air ? 
+\item Fabry-Pérot, couche anti-reflet
+\item suiveur : désadapte l'impédance
+\item électronique : on parle d'adaptation d'impédance pour maximiser le rendement
+\item quand on cherche à annuler la réflexion, on maximise la puissance transmise
+\item impédance d'un dipôle : extensif
+\item impédance d'un milieu : intensif 
+\item on les traite différemment : ça dépend de la dimension à laquelle on les regarde
+\item impédance caractéristique
+\item cornet : (ex ondes centimétriques) fait varier continûment l'impédance
+\item impédance : lien entre une force cinétique et une force de rappel ; oscillation de l'énergie par passage de forme cinétique à potentielle 
+\item coefficients de Fresnel
+\item $Z=\frac{"force"}{"déplacement"}$
+\item conditions aux limites : dépend du rapport entre les impédances, on peut donc tout ramener aux impédances, ça rebondit
+\item cas des dipôles : traité comme ponctuel
+\item trompette, réflexion du son sur un mur ; boîte d'oeuf : tout est absorbé
+\item déferlement de vagues ?
+\item 
+\end{itemize} \end{remarques}

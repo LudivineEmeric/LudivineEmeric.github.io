@@ -1,0 +1,95 @@
+\Chapter{Inductances de l'électromagnétisme à l'électrocinétique}
+
+\nivpre{CPGE}{
+ \begin{itemize}
+ \item théorème d'Ampère
+ \item loi de Lenz, loi de Faraday
+ \item bases de l'électrocinétique (lois des mailles, noeuds)
+ \item utilisation de complexes en EC
+ \end{itemize}
+}
+
+\lemessage{.}
+
+\biblio{}
+
+\section*{Introduction}
+il existe des forces électromotrices induites, couplage avec le champ magnétique \\
+comment ça marche dans un circuit ? cadre de validité ? \\
+\marginpar{réf. \cite{Neveu_elec},\cite{ToutenunPSI_2016}, \cite{Perez_EM}, \cite{BFR_EM_4}}
+
+\section{Rappel des lois de l'induction}
+\subsection{Notions de flux et d'inductance}
+flux $\Phi=...$ \\
+on définit l'inductance par $L=\frac{\Phi}{i}$ \\
+\subsection{Loi de Faraday}
+force électromotrice induite $fem=e=-\frac{d\Phi}{dt}$ \\
+alors $e=-L \frac{di}{dt}$ car L est constant \\
+on retrouve loi classique de l'électrocinétique
+\section{Inductance propre/mutuelle}
+\subsection{Inductance propre}
+Étude d'un solénoïde, théorème d'Ampère \\
+$\Phi=\mu_0 \frac{N^2 S}{l}i$ \\
+donc $L=\mu_0 \frac{N^2 S}{l}$ \\
+ne dépend pas du temps tant que le circuit ne bouge pas, est indéformable  \\
+
+\subsection{Inductance mutuelle}
+il n'y a pas d'aimant, seulement le circuit, avec un autre : on a 2 solénoïdes \\
+représentation des lignes de champ de chacun des solénoïdes \\
+$M=\frac{\Phi_{1 \rightarrow 2}}{i_1}$ \\
+Pour 2 solénoïdes imbriqués de même surface : $M=\mu_0 \frac{N_1 N_2}{l}$
+\subsection{Passage à l'électrocinétique : schéma électrique équivalent}
+pour une inductance propre : convention générateur et convention récepteur \\
+la fem est définie en convention générateur \\
+Pour 2 circuits couplés par inductance mutuelle : $U_1=L_1 \frac{di_1}{dt} + M \frac{di_2}{dt}$,...
+
+\section{Utilisation en électrocinétique}
+\subsection{Mesure de L par un circuit RL}
+on a une petite résistance interne, que l'on néglige \\
+$E=L \frac{di}{dt}+R i$ \\
+réponse à un créneau, aux bornes de la résistance : $u(t)=E \left( 1-e^{-\frac{t}{\tau}} \right) $ avec $\tau = \frac{L}{R}$ \\
+continu, faible variation donc passe-bas aux bornes de la résistance \\
+
+expérience, décrément logarithmique : $0.63 E$ \\
+
+\subsection{Mesure de M}
+$u_1=L \frac{di_1}{dt}+M \frac{di_2}{dt}$ \\
+$u_2=L \frac{di_2}{dt}+M \frac{di_1}{dt}$ \\
+on prend une résistance très grande dans le circuit secondaire pour négliger $i_2$ \\
+$\frac{u_2}{u_1}=\frac{M}{L}$
+
+
+\subsection{Transformateur}
+2 bobines traversées par le même champ B \\
+en pratique : il y a un support (ferro) qui permet de canaliser les lignes de champ \\
+rapport de transformation : $m=\frac{N_2}{N_1}=\frac{U_2}{U_1}$ \\
+expérience : étude d'un transformateur 
+
+\subsection{Circuit RL en régime sinusoïdal forcé} 
+sortie aux bornes de la bobine \\
+filtre passe-haut \\
+
+
+\section*{Conclusion}
+applications : filtrage, effet présent dans câble coaxial \\
+
+\begin{remarques} \begin{itemize} 
+\item toujours orienter les contours, lignes de champ
+\item définition pulsation de coupure
+\item si pas de variation de courant, on n'a pas d'induction, loi de Faraday
+\item tu as fait circuit filiforme (1D), comment ça marche pour un circuit non-filiforme ? (2D)
+\item solénoïde infini de taille fini : il faut que longueur soit très grande devant le rayon
+\item l'auto-inductance est toujours positive car orientations sont définies comme ça
+\item l'inductance propre ne dépend pas du métal, ne dépend pas de la conductivité électrique
+\item l'inductance mutuelle de 1 sur 2 et de 2 sur 1, c'est pareil ?  oui, il faudrait le calculer avec Biot-et-Savart
+\item inductance mutuelle : dépend de géométrie, matériau entre les 2, peut être négatif, dépend comment on oriente les circuits les uns par rapports aux autres
+\item $K=\frac{M}{\sqrt{L_1 L_2}}=1$ pour bobines en influence totale (une ligne de champ passant dans une bobine passe aussi dans l'autre)
+\item $abs(K)<=1$, dem : $E_{tot}=\frac{1}{2} \left( i_1 \phi_1 +i_2 \Phi_2 \right)=\frac{1}{2}\left( L_1 i_1^2  +L_2 i_2^2 + 2M i_1 i_2 \right)$, $E_{int}=M i_1 i_2$, et $E_{tot}=\frac{\left( \vec{B_1} + \vec{B_2}\right)^2}{2\mu_0} V$ donc $M^2<L_1 L_2$
+\item induction de Neumann ou Lorenz ? Neumann, circuit fixe dans un champ variable
+\item circuit filiforme $E=\frac{1}{2} \Phi i$
+\item reconnaître un passe-bas, un passe-haut à l'allure de la réponse à un échelon
+\item des formules de réciprocité...
+\item montrer que champ magnétique est nul à l'extérieur : voir TD Erwan
+\item voir L non contant avec géométrie variable : force d'un circuit sur lui même (tendance à s'ouvrir, s'éloigner), force créée par le solénoïde a tendance à l'écraser lui même ; action magnétique subie par le courant, force subie par une spire, règle du flux maximal : énergie potentielle associée aux forces de Laplace circuit se déplace de façon à maximiser $i \Phi$, variation positive de $L$
+\item autre piste : quelle nouvelle vision peut nous donner l'électromagnétisme sur la bobine en électrocinétique ?
+\end{itemize} \end{remarques}

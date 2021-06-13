@@ -1,0 +1,98 @@
+\Chapter{Equation de Schrödinger et applications}
+
+\nivpre{CPGE}{
+ \begin{itemize}
+  \item optique ondulatoire
+  \item 
+  \item 
+  \item 
+ \end{itemize}
+}
+
+\lemessage{.}
+
+\biblio{}
+
+\section*{Introduction}
+on a vu relation onde - corpuscule, longueur d'onde de De Broglie \\
+expérience introductive : diffraction des électrons \\
+accélération des électrons par tension  \\
+sur graphite, diffraction comme un réseau en optique \\
+matière est une onde ! \\
+comment décrire ces états ? \\
+
+Slide dualité onde-corpuscule : relation de De Broglie $\lambda_{db}=\frac{h}{p}$ ; pour des électrons accélérés : $\lambda_{db}=\frac{rd}{l}$ \\
+
+%\marginpar{réf. \cite{ToutenunPC_2016},\cite{hecht},\cite{huard_pola}}
+
+\section{État et évolution d'une particule}
+\subsection{Fonction d'onde}
+$\psi (M,t)$, valeurs complexes, interprétation : amplitude de probabilité de trouver la particule à un instant donné \\
+Dans un volume $dV$ centré sur $M$ à l'instant $t$, la probabilité est : $dP=\lvert \psi(M,t) \lvert ^2  dV$ \\
+caractère probabiliste \\
+propriété importante, loi de conservation : intégré sur tout l'espace, on obtient $1$ puisqu'on sait que cette particule existe \\
+ Comment étudier son évolution dans le temps ?  \\ 
+\subsection{Équation de Schrödinger}
+1925 \\
+on étudie ici à 1D \\
+$\psi=\psi_0 e^{i\omega t}$ \\
+$E=\hbar \omega=\frac{p^2}{2m}+V$ ; $c=\lambda_{db} \nu$ \\
+on part de l'équation de propagation et on démontre Schrödinger : $E \psi=-\frac{\hbar^2}{2m} \frac{\partial^2  \psi}{\partial x^2} +V(x) \psi$ \\
+forme générale avec opérateur (pas démontrée ici) : $i\hbar \frac{\partial \psi}{\partial t}=-\frac{\hbar^2 }{2 m} \frac{\partial^2  \psi}{\partial x^2} + V(x) \psi $ \\
+connaissance de l'évolution de la fonction d'onde\\
+équation linéaire : si on a deux solutions, toute combinaison linéaire est alors solution \\
+
+\section{Solutions}
+\subsection{Cas libre}
+$V=0$, on cherche des solutions stationnaires $\psi=\phi(x) f(t)$ \\
+on les appelle états stationnaires \\
+démonstration à partir de normalisation dans l'espace, et $f(t)=e^{-i\omega t}$ \\
+$\psi ''+\frac{2m\omega}{\hbar} \psi$ =0 \\
+$K=\sqrt{\frac{2m\omega}{\hbar}}$ : pulsation spatiale \\
+
+\subsection{Cas d'une barrière de potentiel}
+3 zones \\
+énergie supérieure ou inférieure à $V_0$... \\
+
+\section{Applications}
+
+\subsection{Effet tunnel}
+
+courant de probabilité (simplifié pour CPGE): $\vec{J}=\frac{\hbar \vec{k}}{m} \lvert \psi \lvert ^2$ \\
+
+slide : radioactivité $\alpha$, He franchit une barrière de potentiel par effet tunnel \\
+microscope à effet tunnel : sonder la matière à l'échelle nanométrique et manipulation d'atomes \\
+\href{https://youtu.be/oSCX78-8-q0}{vidéo réalisée image par image}
+
+
+
+\section*{Conclusion}
+ne prend pas en compte effets relativistes 
+
+\begin{remarques} 
+Améliorations : 
+\begin{itemize} 
+\item plutôt introduire l'équation de Schrodinger à partir de l'énergie cinétique et énergie potentielle 
+\item faire une seule particule
+\item qqch de complètement différent de classique
+\item probabilité de présence ? pas exactement, c'est qqch qui nous permet de déterminer la proba
+\item champ de l'espace et du temps défini en tout point
+\item aspect dynamique pour évolution temporelle : on a longueur d'onde de de broglie, vecteur d'onde, le même que Fourier ; consiste juste à établir relation de dispersion
+\item on a psi à un moment donné : on intègre, alors on l'a à n'importe quel instant
+\item on s'intéresse aux modes propres car solutions
+\item la mesure est un phénomène probabiliste
+\item hypothèses : $\psi$ et $\frac{d \psi}{dt}$ sont continus
+\item puits de potentiel est plus intéressant pour les aspects de normalisation
+\end{itemize}
+
+Questions :
+\begin{itemize} 
+\item évolution d'un système quantique, tout système quantique ?   non
+\item particules élémentaires : photon, boson de Higgs, quark, électrons... 
+\item ça marche pour le photon ? non, pas de charge conservée, exemple corps noir : on crée des photons, oscillateurs
+\item c'est quoi le modèle standard ? 
+\item y a t'il des théories quantiques qui ne sont pas de la mécanique quantique ?
+\item théorie quantique des champs ? système à nombres de particules variables, qui s'ajustent
+\item au sens strict, la mécanique quantique relativiste n'existe pas 
+\item passage à la mécanique classique ? théorème d'Ehrenfest ou approximation WKB avec paquets d'onde
+\end{itemize} \end{remarques}
