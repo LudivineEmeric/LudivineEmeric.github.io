@@ -1,0 +1,3 @@
+pas d'accent dans les fichiers index
+pas de c cédille
+sauf en commentaires
