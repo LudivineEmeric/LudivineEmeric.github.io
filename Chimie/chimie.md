@@ -8,7 +8,7 @@
 
 <h2> Fiches </h2>
 
-- [Notes](notes.docx)
+- [Notes](Notes de chimie.docx)
 
 <h2> Pictures </h2>
 

@@ -6,7 +6,7 @@
 
 <h2> Fiches </h2>
 
-- [Notes](notes.docx)
+- [Notes](Notes de Physique.docx)
 
 <h2> Pictures </h2>
 - [Alain Le Rille, plein d'animations Geogebra et de ressources picturales](http://alain.lerille.free.fr/index_media.php)
